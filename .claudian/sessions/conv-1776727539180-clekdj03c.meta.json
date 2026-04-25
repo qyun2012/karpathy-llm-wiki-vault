@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776727539180-clekdj03c",
+  "providerId": "claude",
+  "title": "Review LLM Wiki guidelines",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776727539181,
+  "updatedAt": 1777067813595,
+  "lastResponseAt": 1777067607006,
+  "sessionId": "b9f716f9-f44f-42b4-8fda-87e35741bef2",
+  "providerState": {
+    "providerSessionId": "b9f716f9-f44f-42b4-8fda-87e35741bef2"
+  },
+  "currentNote": "CLAUDE.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

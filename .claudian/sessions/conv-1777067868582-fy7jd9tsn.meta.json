@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777067868582-fy7jd9tsn",
+  "providerId": "claude",
+  "title": "Ingest IBD biologic agents paper",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777067868583,
+  "updatedAt": 1777069163803,
+  "lastResponseAt": 1777068991483,
+  "sessionId": "780c55dc-3a5b-4473-863a-2282ffca86ba",
+  "providerState": {
+    "providerSessionId": "780c55dc-3a5b-4473-863a-2282ffca86ba"
+  },
+  "currentNote": "raw/02-papers/Biologic agents for IBD come of age as host–microbe interactions emerge.pdf",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 11919,
+    "cacheReadInputTokens": 67667,
+    "contextWindow": 200000,
+    "contextTokens": 79596,
+    "percentage": 40,
+    "contextWindowIsAuthoritative": true
+  }
+}

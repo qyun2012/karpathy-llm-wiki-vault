@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777150249491-q6h1uyu6s",
+  "providerId": "claude",
+  "title": "Review IBD literature survey",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777150249491,
+  "updatedAt": 1777151129573,
+  "lastResponseAt": 1777151129573,
+  "sessionId": "25efe763-09f4-4a50-85b7-09fb6412e14e",
+  "providerState": {
+    "providerSessionId": "25efe763-09f4-4a50-85b7-09fb6412e14e"
+  },
+  "currentNote": "wiki/文献调研.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1499,
+    "cacheReadInputTokens": 112244,
+    "contextWindow": 200000,
+    "contextTokens": 113751,
+    "percentage": 57,
+    "contextWindowIsAuthoritative": true
+  }
+}

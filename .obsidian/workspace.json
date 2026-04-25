@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "3a9d42cae5a6bc42",
+    "type": "split",
+    "children": [
+      {
+        "id": "d521fa892a76017f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "973c54d37aac5cbb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8ff87ad07cf5a8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc02d7c8a354f736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d21e527da1dadcd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9b082fbdc9e783b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "77f36a5790689e66",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9209bdcd78aec6dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "23d2ac37f8afcd52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "546bf1cfa43c7f16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
+            }
+          },
+          {
+            "id": "5b180a76e7badffd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "995829a85d7060dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d6d9fe82d4c59892",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "708a519c62375502",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CLAUDE.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "CLAUDE 的大纲"
+            }
+          },
+          {
+            "id": "c3fafb9966e3e65f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "eba0e625b79212fe",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "b5d77247f1b40f61",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 490.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "large-language-models:Ask a question": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "copilot:Open Copilot Chat": false,
+      "templater-obsidian:Templater": false,
+      "claudian:Open Claudian": false,
+      "obsidian42-brat:BRAT": false,
+      "claude-code-mcp:Toggle Claude Terminal": false
+    }
+  },
+  "active": "b5d77247f1b40f61",
+  "lastOpenFiles": [
+    "raw/09-archive/IBD 研究现状与顶尖中心 - Google Gemini.md",
+    "README.md",
+    "wiki/entities/粪便钙卫蛋白.md",
+    "wiki/entities/Etrasimod.md",
+    "wiki/concepts/IBD膳食干预.md",
+    "wiki/concepts/CDED.md",
+    "wiki/concepts/精准营养.md",
+    "wiki/sources/摘要-IBD研究现状与膳食干预.md",
+    "wiki/文献调研.md",
+    "raw/02-papers/IBD 研究现状与顶尖中心 - Google Gemini.md",
+    "Clippings/Note Taking & Research Assistant Powered by AI 1.md",
+    "Clippings/Note Taking & Research Assistant Powered by AI.md",
+    "Clippings/IBD_TDM_Investigator_Network.md",
+    "wiki/concepts/膳食纤维悖论.md",
+    "wiki/concepts/菌群干预证据阶梯.md",
+    "wiki/index.md",
+    "wiki/concepts/特殊饮食在IBD中的应用.md",
+    "wiki/膳食纤维悖论.md",
+    "wiki/特殊饮食在IBD中的应用.md",
+    "wiki/sources/摘要-biologic-agents-ibd.md",
+    "wiki/sources/摘要-microbiome-directed-therapy-ibd.md",
+    "wiki/concepts/Microbiome_Host_Interactions.md",
+    "wiki/concepts/Food_Microbiota_Associations.md",
+    "raw/02-papers/Influence of biological sex in IBD.pdf",
+    "raw/02-papers/Prioritizing inflammatory bowel disease.pdf",
+    "raw/02-papers/The 3 Ps of IBD today — prevention, pre-diagnosis and participation.pdf",
+    "wiki/sources/摘要-dietary-guidelines-gi-disorders.md",
+    "wiki/菌群干预证据阶梯.md",
+    "my profile.md",
+    "raw/02-papers/Biologic agents for IBD come of age as host–microbe interactions emerge.pdf",
+    "raw/02-papers/Diet and Microbiome-Directed Therapy 2.0 for IBD.pdf",
+    "raw/02-papers/Gut microbiome in metabolic dysfunctionassociated steatotic liver disease.pdf",
+    "raw/02-papers/Microbiota-based biomarkers and therapeutics for cancer management.pdf",
+    "raw/02-papers/Goolge-Prompt-Engineering-whitepaper.pdf",
+    "assets/hq720.jpg",
+    "assets/Karpathy LLM Wiki.png",
+    "raw/02-papers/5C Prompt Contracts .pdf",
+    "raw/02-papers/Mechanisms of chronic abdominal pain in inflammatory bowel disease.pdf"
+  ]
+}

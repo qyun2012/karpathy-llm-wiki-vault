@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(brew install *)",
+      "Bash(pdftotext \"/Users/tmp/Documents/GitHub/karpathy-llm-wiki-vault/raw/02-papers/The gut microbiome connects nutrition and human health.pdf\" -)",
+      "Bash(pdftotext \"/Users/tmp/Documents/GitHub/karpathy-llm-wiki-vault/raw/02-papers/The gut microbiome connects nutrition and human health.pdf\" /tmp/paper.txt)",
+      "Read(//tmp/**)",
+      "Bash(pdftotext \"/Users/tmp/Documents/GitHub/karpathy-llm-wiki-vault/raw/02-papers/The gut microbiome connects nutrition and human health.pdf\" - | sed -n '400,800p')",
+      "Bash(cd /Users/tmp/Documents/GitHub/karpathy-llm-wiki-vault/raw/02-papers/ && for pdf in \"Biologic agents for IBD come of age as host–microbe interactions emerge.pdf\" \"Dietary guidelines for gastrointestinal disorders.pdf\" \"Drug approvals in 2025 in gastroenterology and hepatology.pdf\"; do\n  echo \"=== Extracting: $pdf ===\"\n  pdftotext \"$pdf\" - | head -150\n  echo \"\"\ndone)",
+      "Bash(cd /Users/tmp/Documents/GitHub/karpathy-llm-wiki-vault/raw/02-papers/ && for pdf in \"Early Crohn's disease.pdf\" \"Gut microbiome in metabolic dysfunctionassociated steatotic liver disease.pdf\" \"Influence of biological sex in IBD.pdf\" \"Mechanisms of chronic abdominal pain in inflammatory bowel disease.pdf\" \"Microbiota-based biomarkers and therapeutics for cancer management.pdf\"; do\n  echo \"=== $pdf ===\"\n  pdftotext \"$pdf\" - | head -100 | tail -80\n  echo \"\"\ndone)",
+      "Bash(pdftotext \"The fate of dietary protein in the gastrointestinal tract and implications for colonic disease.pdf\" -)",
+      "Bash(cd /Users/tmp/Documents/GitHub/karpathy-llm-wiki-vault/raw/02-papers/ && pdftotext \"The fate of dietary protein in the gastrointestinal tract and implications for colonic disease.pdf\" - | sed -n '300,600p')",
+      "Bash(cd /Users/tmp/Documents/GitHub/karpathy-llm-wiki-vault/raw/02-papers/ && pdftotext \"The fate of dietary protein in the gastrointestinal tract and implications for colonic disease.pdf\" - | sed -n '600,900p')",
+      "Bash(pdftotext \"Dietary guidelines for gastrointestinal disorders.pdf\" -)",
+      "Bash(pdftotext \"Diet and Microbiome-Directed Therapy 2.0 for IBD.pdf\" -)",
+      "Bash(cd /Users/tmp/Documents/GitHub/karpathy-llm-wiki-vault/raw/02-papers/ && pdftotext \"Diet and Microbiome-Directed Therapy 2.0 for IBD.pdf\" - | sed -n '500,900p')",
+      "Bash(cd /Users/tmp/Documents/GitHub/karpathy-llm-wiki-vault/raw/02-papers/ && pdftotext \"Diet and Microbiome-Directed Therapy 2.0 for IBD.pdf\" - | sed -n '900,1300p')",
+      "Bash(pdftotext \"Biologic agents for IBD come of age as host–microbe interactions emerge.pdf\" -)"
+    ]
+  }
+}
