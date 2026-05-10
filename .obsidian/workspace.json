@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crohn's Postoperative Management.flowchart.md",
+                "file": "Clippings/Gut microbiota-derived short-chain fatty acids and their role in human health and disease - Nature Reviews Microbiology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crohn's Postoperative Management.flowchart"
+              "title": "Gut microbiota-derived short-chain fatty acids and their role in human health and disease - Nature Reviews Microbiology"
             }
           }
         ]
@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 520.5
+    "width": 520.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,9 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5d77247f1b40f61",
+  "active": "7b7b44e1c9717128",
   "lastOpenFiles": [
     "Crohn's Postoperative Management.flowchart.md",
+    "Clippings/Gut microbiota-derived short-chain fatty acids and their role in human health and disease - Nature Reviews Microbiology.md",
     "wiki/IBD精准医学的闭环诊疗系统.md",
     "Clippings/Study Details  NCT02201693  Cyclic Exclusive Enteral Nutrition as Maintenance Therapy for Pediatric Crohn's Disease.md",
     "raw/notes/未命名.md",
@@ -254,7 +256,6 @@
     "wiki/sources/摘要-ibd-dietary-interventions.md",
     "raw/09-archive/Perioperative Dietary Therapy in Inflammatory Bowel Disease.md",
     "Clippings/Perioperative Dietary Therapy in Inflammatory Bowel Disease.md",
-    "wiki/concepts/Enteral_Nutrition.md",
     "assets/template",
     "raw/02-papers/术后管理 nature.rtf",
     "Clippings/wiki/entities",
