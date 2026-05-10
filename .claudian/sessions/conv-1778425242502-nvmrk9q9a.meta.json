@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778425242502-nvmrk9q9a",
+  "providerId": "claude",
+  "title": "Create postoperative Crohn's management flowchart",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778425242502,
+  "updatedAt": 1778426995390,
+  "lastResponseAt": 1778426975034,
+  "sessionId": "e9082bbc-a316-4464-890f-a583a2883f41",
+  "providerState": {
+    "providerSessionId": "e9082bbc-a316-4464-890f-a583a2883f41"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 12676,
+    "cacheReadInputTokens": 99414,
+    "contextWindow": 200000,
+    "contextTokens": 112098,
+    "percentage": 56,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777539414540-5q8a8qlim",
+  "providerId": "claude",
+  "title": "Explore IBD clinical research entry points",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777539414540,
+  "updatedAt": 1777553066116,
+  "lastResponseAt": 1777540103134,
+  "sessionId": "d761de49-f78c-4b65-8ff4-d0b0c5ebabe8",
+  "providerState": {
+    "providerSessionId": "d761de49-f78c-4b65-8ff4-d0b0c5ebabe8"
+  },
+  "currentNote": "README.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1788,
+    "cacheReadInputTokens": 79398,
+    "contextWindow": 200000,
+    "contextTokens": 81194,
+    "percentage": 41,
+    "contextWindowIsAuthoritative": true
+  }
+}

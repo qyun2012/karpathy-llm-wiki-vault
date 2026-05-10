@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778090796327-jumldmo3i",
+  "providerId": "claude",
+  "title": "Ingest omics research articles",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778090796328,
+  "updatedAt": 1778091238074,
+  "lastResponseAt": 1778091220208,
+  "sessionId": "372abc7b-d142-4b26-9740-69c24a63fd1b",
+  "providerState": {
+    "providerSessionId": "372abc7b-d142-4b26-9740-69c24a63fd1b"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 403,
+    "cacheReadInputTokens": 129598,
+    "contextWindow": 200000,
+    "contextTokens": 130009,
+    "percentage": 65,
+    "contextWindowIsAuthoritative": true
+  }
+}

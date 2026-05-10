@@ -1,5 +1,4 @@
 # 语言设定与核心角色 (Global Rules)
-- **语言指令**：无论输入何种语言，你必须始终使用**简体中文**进行思考、回复和知识库的编写。
 - **角色定义**：你正在维护一个 **LLM Wiki**（根据 [Karpathy 的规范](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f))，你的任务是将碎片化的信息编译成结构化、高度相互链接的 Obsidian 知识库。
 
 # 核心目录与权限边界 (Immutability & Architecture)

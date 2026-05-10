@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777854058649-un8ffh3t7",
+  "providerId": "claude",
+  "title": "融合多组学进展打磨Nature Review稿件",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777854058650,
+  "updatedAt": 1777891729613,
+  "lastResponseAt": 1777855682089,
+  "sessionId": "dba33e26-1fc9-44b1-adc1-1a923b88beba",
+  "providerState": {
+    "providerSessionId": "dba33e26-1fc9-44b1-adc1-1a923b88beba"
+  },
+  "currentNote": "raw/09-archive/nature review draft.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 6182,
+    "cacheReadInputTokens": 149513,
+    "contextWindow": 200000,
+    "contextTokens": 155703,
+    "percentage": 78,
+    "contextWindowIsAuthoritative": true
+  }
+}

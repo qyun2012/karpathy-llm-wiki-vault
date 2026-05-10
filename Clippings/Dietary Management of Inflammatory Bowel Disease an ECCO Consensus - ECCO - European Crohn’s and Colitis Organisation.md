@@ -1,0 +1,56 @@
+---
+title: "Dietary Management of Inflammatory Bowel Disease: an ECCO Consensus - ECCO - European Crohn’s and Colitis Organisation"
+source: "https://ecco-ibd.eu/publications/news/issues/2025/volume-20-issue-4/dietary-management-of-inflammatory-bowel-disease-an-ecco-consensus"
+author:
+  - "[[Manuel]]"
+published:
+created: 2026-05-08
+description:
+tags:
+  - "clippings"
+---
+## Dietary Management of Inflammatory Bowel Disease: an ECCO Consensus
+
+**Vaios Svolos <sup>1</sup>, Emma Halmos <sup>2</sup>**
+
+**1\. University of Thessaly, Trikala, Greece; 2. Monash University, Alfred Health, Melbourne, Australia**
+
+The European Crohn’s and Colitis Organisation (ECCO) has compiled its first Consensus on the dietary management of Inflammatory Bowel Disease (IBD), recognising that the role of diet has evolved significantly beyond basic nutritional needs to become a therapeutic tool capable of influencing disease activity and complications. As a cornerstone of the ECCO Guidelines, research shaping the application of dietary therapy for IBD was carefully scrutinised for its efficacy and ranked for its level of evidence, as agreed upon by an expert panel of research dietitians, gastroenterologists, paediatric gastroenterologists and patient representatives. The central narrative of this Consensus is clear: successful dietary management requires personalised, expert care, delivered by a dietitian, starting with foundational healthy eating principles and progressing to highly specialised, evidence-based dietary interventions targeted to the patient’s disease status, phenotype and desired outcome.
+
+### The foundation of care: access and assessment
+
+The journey begins with fundamental guidelines applicable to all individuals living with IBD: unless a specific dietary intervention is recommended by an IBD healthcare professional, patients should adhere to healthy eating guidelines consistent with those applicable for the general population. Crucially, the Consensus stresses that all individuals with IBD must have access to a dietitian experienced in IBD management. This statement is considered arguably the most important within the Consensus. A dietitian is essential not only for assessing and correcting abnormalities in nutrition and eating behaviour but also for executing and monitoring specific dietary interventions, especially those that are restrictive in nature, which carry inherent nutritional and psychosocial risks and necessitate skilled supervision.
+
+### Diet as therapy: induction and maintenance of remission
+
+When IBD is active, diet can be positioned as a primary or adjunctive therapy, with distinct protocols outlined for Crohn’s Disease (CD) and Ulcerative Colitis (UC). A distinct finding from the Consensus was that diets used for the treatment of active CD differ from those used to treat UC.
+
+*Crohn’s Disease*: For CD, the key strategy for inducing remission is exclusive enteral nutrition (EEN), where all food is temporarily replaced by specialised liquid nutrition formulas, typically for six to eight weeks. EEN is strongly recommended for the induction of clinical and endoscopic remission in patients, regardless of age. EEN could be considered to actively treat inflammatory strictures in CD. Polymeric formulas (those with whole protein) are the preferred choice, as they are equally as effective as elemental or semi-elemental formulas and are more palatable. While high-volume partial enteral nutrition (PEN)—where supplements replace a portion of food—might improve disease activity, details of its application, including recommended duration, have not been outlined to date, leading to uncertainty over its translation to clinical practice as induction and maintenance therapy. An alternative, equally effective diet for induction in children, and one that may be considered in adults with mild-to-moderate CD, is the Crohn’s Disease Exclusion Diet (CDED), but this must be combined with PEN (CDED + PEN). This structured restrictive step-down diet comprises initially 14 whole foods, paired with PEN to meet 50% of estimated energy requirements. However, there is insufficient evidence to support the use of CDED without PEN for induction of remission or the use of CDED as a maintenance therapy. Parenteral nutrition, while historically effective, is explicitly not recommended for induction therapy in IBD due to the associated risks of harm.
+
+*Ulcerative Colitis*: For UC, the therapeutic landscape for diet is different as none of the induction therapies offered for CD have shown efficacy. In fact, no diets are recommended for the induction of remission of UC. However, for maintenance of UC remission, the Mediterranean diet (MD), a heavily plant-based diet, could be considered as an adjunct to medical therapy. This is in line with the other recommendation for UC maintenance therapy, namely limiting the intake of red and processed meat.
+
+### The role of adjunct supplements
+
+Beyond whole diets, certain nutritional supplements may be considered as adjunctive therapies, particularly for UC. Curcumin, the active compound in turmeric, could be used alongside mesalamine for the induction of remission in mild-to-moderate UC. There is also supporting evidence for the use of curcumin for maintenance of remission in UC. Similarly, the herbal compound QingDai, either alone or in combination with curcumin, may be considered as an adjunct for induction of remission in mild-to-moderate UC. However, medical supervision is strongly advised when using either curcumin or QingDai due to potential toxicity and the lack of clarity regarding optimal dose and formulation. There is insufficient evidence of disease activity benefit to justify the use of supplemental vitamin D, n-3 fatty acids, glutamine or fibre.
+
+### Addressing comorbidities and special conditions
+
+Dietary management also plays a crucial role in mitigating complications and non-inflammatory symptoms in IBD. For patients who are in remission but are experiencing irritable bowel syndrome (IBS)-like symptoms, the low FODMAP diet was strongly recommended. Sufficient evidence was lacking to make any recommendations regarding the use of high-fibre diets, whether through diet or supplements, or low-fibre diets to address persistent symptoms. However, a weak recommendation based on mechanism-based reasoning was made for a reduction in bulking fibre specifically in patients with stricturing CD who are experiencing obstructive symptoms. Classification of fibre based on its functional effects in the gastrointestinal tract (fermentable, viscous or bulking) enables targeted dietary restriction relevant to the cause. Consistent with ERAS (Enhanced Recovery After Surgery) guidelines, provision of preoperative nutrition, ideally four weeks of EEN, is recommended to reduce the risk of postoperative complications in CD patients awaiting surgical intervention. Furthermore, EEN for at least two weeks might help reduce the inflammatory burden and potentially prevent the need for planned surgery. Evidence for preoperative nutrition in patients with UC was lacking. Statements were formulated on recommendations for dietary management of intestinal resection, stomas, ileal-anal pouches, short bowel syndrome and orofacial granulomatosis.
+
+### Nutritional assessment and optimisation
+
+The Consensus emphasises that nutritional assessment and optimisation are essential pillars of IBD management. Malnutrition, covering both undernutrition and overnutrition, and sarcopenia are highly prevalent, underscoring the need for routine screening. It is recommended that nutrition screening is performed annually for patients in remission and three monthly for those with active disease. Patients identified at screening as being at risk of malnutrition and those newly diagnosed with IBD require full nutritional assessment. Because BMI alone does not accurately reflect sarcopenia, which can occur even in overweight patients, the Consensus recommends combining BMI with a measure of body composition, muscle function or both.
+
+While techniques such as DEXA, CT or MRI can quantify muscle mass, practical tools such as handgrip strength offer accessible ways to assess muscle function over time. Recommendations for monitoring micronutrient deficiencies, ideally performed during clinical and biochemical remission, were outlined for iron, vitamin B <sub>12</sub> and vitamin D. Assessment of dietary intake in people with IBD is recommended, given that dietary restriction is common and frequently results in inadequate energy and nutrient intake. Specific nutrients requiring routine attention include total energy, iron, vitamin C, calcium, and dietary fibre.
+
+### Preventing IBD development: a lifestyle choice
+
+As regards prevention, the Consensus identifies several dietary and lifestyle factors associated with the development of CD and UC in healthy populations (Table). The overarching theme is that healthy eating patterns are associated with a lower risk of developing both CD and UC and are therefore recommended. These patterns typically entail high consumption of fruits, vegetables, whole grains, nuts, seeds, legumes and fish, with limited consumption of red and processed meats as well as high-sugar foods and beverages. High intake of ultra-processed food (UPF) displays the strongest association with disease development for CD, though not UC. Consequently, limiting UPF intake is advised, consistent with the adoption of healthy eating patterns.
+
+![](https://ecco-ibd.eu/media/yootheme/cache/0b/0bedd309.webp)
+
+### Conclusion
+
+This ECCO Consensus establishes diet as an increasingly recognised modifier influencing IBD, spanning therapeutic applications for inducing and maintaining remission, managing comorbidities and potentially preventing disease development. Key recommendations include use of EEN and the CDED in combination with PEN for induction of remission in CD, use of a low FODMAP diet for management of IBS-like symptoms in quiescent IBD and prioritisation of access to a dietitian with IBD experience for all patients. However, across many dietary interventions and supplements, the quality of evidence remains low or insufficient, making the positioning of these therapies challenging. Consequently, future research must focus on advancing knowledge in several priority areas, including developing/validating objective tools (e.g. metabolomic biomarkers and digital tracking) to accurately measure dietary adherence and its impact on clinical outcomes, elucidating the biological pathways and mechanisms (e.g. multi-omic studies of EEN) underlying therapeutic diets, and rigorously testing the efficacy of whole-food diets and the combination of dietary therapies with advanced drug treatments. Additionally, research efforts should target improving nutritional assessment tools for practical clinical use and defining the optimal long-term dietary strategies for maintaining remission, preventing postoperative complications, improving pouch function and reducing the risk of IBD development in healthy populations.
+
+Posted in

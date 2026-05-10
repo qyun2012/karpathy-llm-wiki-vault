@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778239344228-sqlr8nhmh",
+  "providerId": "claude",
+  "title": "Ingest Meta-Analysis on IBD Eating Disorders",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778239344228,
+  "updatedAt": 1778244324674,
+  "lastResponseAt": 1778239523055,
+  "sessionId": "32d3c4d9-d098-47d0-b187-00fda50b9768",
+  "providerState": {
+    "providerSessionId": "32d3c4d9-d098-47d0-b187-00fda50b9768"
+  },
+  "currentNote": "Clippings/Meta‐Analysis Prevalence of Eating Disorders in Inflammatory Bowel Disease.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 2180,
+    "cacheReadInputTokens": 136477,
+    "contextWindow": 200000,
+    "contextTokens": 138665,
+    "percentage": 69,
+    "contextWindowIsAuthoritative": true
+  }
+}

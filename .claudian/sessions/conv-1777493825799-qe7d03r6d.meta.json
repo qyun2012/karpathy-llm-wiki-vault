@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777493825799-qe7d03r6d",
+  "providerId": "claude",
+  "title": "Ingest postoperative nutrition IBD research",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777493825800,
+  "updatedAt": 1777495121222,
+  "lastResponseAt": 1777495060601,
+  "sessionId": "68ac8eb5-0573-48c2-a7c3-cfab26e01518",
+  "providerState": {
+    "providerSessionId": "68ac8eb5-0573-48c2-a7c3-cfab26e01518"
+  },
+  "currentNote": "README.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 2565,
+    "cacheReadInputTokens": 129067,
+    "contextWindow": 200000,
+    "contextTokens": 131640,
+    "percentage": 66,
+    "contextWindowIsAuthoritative": true
+  }
+}

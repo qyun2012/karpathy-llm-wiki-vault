@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777989078491-1h3utk24u",
+  "providerId": "claude",
+  "title": "Search molecular remission de-escalation studies",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777989078491,
+  "updatedAt": 1778013593041,
+  "lastResponseAt": 1777989155710,
+  "sessionId": "afb6dce0-97af-4121-9e7a-5d13b19f51b1",
+  "providerState": {
+    "providerSessionId": "afb6dce0-97af-4121-9e7a-5d13b19f51b1"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 961,
+    "cacheReadInputTokens": 78247,
+    "contextWindow": 200000,
+    "contextTokens": 79216,
+    "percentage": 40,
+    "contextWindowIsAuthoritative": true
+  }
+}

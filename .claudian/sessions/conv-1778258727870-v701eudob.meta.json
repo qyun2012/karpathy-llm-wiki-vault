@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778258727870-v701eudob",
+  "providerId": "claude",
+  "title": "Ingest Crohn's therapy meta-analysis",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778258727870,
+  "updatedAt": 1778259490814,
+  "lastResponseAt": 1778259138197,
+  "sessionId": "d5c0d69f-0afc-46ed-b063-2ee9988686ec",
+  "providerState": {
+    "providerSessionId": "d5c0d69f-0afc-46ed-b063-2ee9988686ec"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 781,
+    "cacheReadInputTokens": 154383,
+    "contextWindow": 200000,
+    "contextTokens": 155172,
+    "percentage": 78,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778085797613-6ma47fr8t",
+  "providerId": "claude",
+  "title": "Ingest IBD treatment response knowledge",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778085797613,
+  "updatedAt": 1778090490189,
+  "lastResponseAt": 1778086665819,
+  "sessionId": "86ac0c63-9c2c-4e75-904f-31316f6c1485",
+  "providerState": {
+    "providerSessionId": "86ac0c63-9c2c-4e75-904f-31316f6c1485"
+  },
+  "currentNote": "Clippings/IBD-RESPONSE – predicting treatment response in Crohn’s disease and ulcerative colitis.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 5264,
+    "cacheReadInputTokens": 145656,
+    "contextWindow": 200000,
+    "contextTokens": 150928,
+    "percentage": 75,
+    "contextWindowIsAuthoritative": true
+  }
+}

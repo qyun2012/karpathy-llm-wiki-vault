@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778407040710-k2o68v60k",
+  "providerId": "claude",
+  "title": "Ingest perioperative IBD insights",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778407040710,
+  "updatedAt": 1778407217935,
+  "lastResponseAt": 1778407186227,
+  "sessionId": "71beab6a-1d56-4fcb-b03b-653c43ea3e32",
+  "providerState": {
+    "providerSessionId": "71beab6a-1d56-4fcb-b03b-653c43ea3e32"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 781,
+    "cacheReadInputTokens": 158959,
+    "contextWindow": 200000,
+    "contextTokens": 159748,
+    "percentage": 80,
+    "contextWindowIsAuthoritative": true
+  }
+}

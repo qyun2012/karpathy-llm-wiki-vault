@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777560811663-6fcnop7zk",
+  "providerId": "claude",
+  "title": "Ingest IBD trials and older adults",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777560811663,
+  "updatedAt": 1777563758257,
+  "lastResponseAt": 1777561018874,
+  "sessionId": "1851cb31-b7b7-4606-b177-214dc0dfb8d8",
+  "providerState": {
+    "providerSessionId": "1851cb31-b7b7-4606-b177-214dc0dfb8d8"
+  },
+  "currentNote": "wiki/sources/摘要-shaping-future-ibd.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 231,
+    "cacheReadInputTokens": 136595,
+    "contextWindow": 200000,
+    "contextTokens": 136834,
+    "percentage": 68,
+    "contextWindowIsAuthoritative": true
+  }
+}

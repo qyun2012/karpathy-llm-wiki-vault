@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777908692136-eqh5t2dno",
+  "providerId": "claude",
+  "title": "Optimize Research Plan Design",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777908692137,
+  "updatedAt": 1777911410041,
+  "lastResponseAt": 1777911238420,
+  "sessionId": "2aba5880-4bcc-4875-a6e0-56395899ee74",
+  "providerState": {
+    "providerSessionId": "2aba5880-4bcc-4875-a6e0-56395899ee74"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1227,
+    "cacheReadInputTokens": 126352,
+    "contextWindow": 200000,
+    "contextTokens": 127587,
+    "percentage": 64,
+    "contextWindowIsAuthoritative": true
+  }
+}

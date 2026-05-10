@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777899560184-ds1o7ptxe",
+  "providerId": "claude",
+  "title": "摄入IBD研究议程文章",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777899560185,
+  "updatedAt": 1777900801176,
+  "lastResponseAt": 1777900523893,
+  "sessionId": "38228ce2-9b93-4270-96c2-c97b8f91fc2f",
+  "providerState": {
+    "providerSessionId": "38228ce2-9b93-4270-96c2-c97b8f91fc2f"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1107,
+    "cacheReadInputTokens": 165255,
+    "contextWindow": 200000,
+    "contextTokens": 166370,
+    "percentage": 83,
+    "contextWindowIsAuthoritative": true
+  }
+}

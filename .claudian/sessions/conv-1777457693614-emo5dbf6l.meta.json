@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777457693614-emo5dbf6l",
+  "providerId": "claude",
+  "title": "设计IBD综述新范式：多组学AI决策系统",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777457693614,
+  "updatedAt": 1777460567129,
+  "lastResponseAt": 1777460457324,
+  "sessionId": "9f37c6b0-d585-48d0-85af-6eda505c779e",
+  "providerState": {
+    "providerSessionId": "9f37c6b0-d585-48d0-85af-6eda505c779e"
+  },
+  "currentNote": "Clippings/Rise of precision medicine can it deliver on its promise in IBD?.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 7111,
+    "cacheReadInputTokens": 68036,
+    "contextWindow": 200000,
+    "contextTokens": 75157,
+    "percentage": 38,
+    "contextWindowIsAuthoritative": true
+  }
+}

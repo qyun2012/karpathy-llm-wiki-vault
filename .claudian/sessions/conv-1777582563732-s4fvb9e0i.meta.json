@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777582563732-s4fvb9e0i",
+  "providerId": "claude",
+  "title": "设计围术期和老年IBD临床试验",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777582563733,
+  "updatedAt": 1777584029337,
+  "lastResponseAt": 1777582848944,
+  "sessionId": "2b034e1c-2abf-4c65-b35f-05f2cf29a34c",
+  "providerState": {
+    "providerSessionId": "2b034e1c-2abf-4c65-b35f-05f2cf29a34c"
+  },
+  "currentNote": "wiki/concepts/MCFA_Clinical_Selection.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1069,
+    "cacheReadInputTokens": 149020,
+    "contextWindow": 200000,
+    "contextTokens": 150097,
+    "percentage": 75,
+    "contextWindowIsAuthoritative": true
+  }
+}

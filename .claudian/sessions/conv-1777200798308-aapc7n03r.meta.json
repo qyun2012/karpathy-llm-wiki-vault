@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777200798308-aapc7n03r",
+  "providerId": "claude",
+  "title": "Ingest ECCO DDW conference summary",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777200798309,
+  "updatedAt": 1777222658929,
+  "lastResponseAt": 1777201110765,
+  "sessionId": "fc5ed78f-efc7-4e1d-9b7a-e0261f08475a",
+  "providerState": {
+    "providerSessionId": "fc5ed78f-efc7-4e1d-9b7a-e0261f08475a"
+  },
+  "currentNote": "README.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 406,
+    "cacheReadInputTokens": 118451,
+    "contextWindow": 200000,
+    "contextTokens": 118865,
+    "percentage": 59,
+    "contextWindowIsAuthoritative": true
+  }
+}

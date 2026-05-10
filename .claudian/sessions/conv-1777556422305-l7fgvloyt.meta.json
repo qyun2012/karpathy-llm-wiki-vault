@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777556422305-l7fgvloyt",
+  "providerId": "claude",
+  "title": "Ingest IBD elderly care knowledge",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777556422305,
+  "updatedAt": 1777556670653,
+  "lastResponseAt": 1777556445113,
+  "sessionId": "f6db3bc9-bfd0-4085-a7e7-33445effbf15",
+  "providerState": {
+    "providerSessionId": "f6db3bc9-bfd0-4085-a7e7-33445effbf15"
+  },
+  "currentNote": "wiki/Management of inflammatory bowel diseases in older adults.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 6107,
+    "cacheReadInputTokens": 76066,
+    "contextWindow": 200000,
+    "contextTokens": 82181,
+    "percentage": 41,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777719016805-p8v8yvber",
+  "providerId": "claude",
+  "title": "Ingest IBD Therapeutic Targets",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777719016806,
+  "updatedAt": 1777719170868,
+  "lastResponseAt": 1777719101513,
+  "sessionId": "b8f8a157-d3c2-4e56-8667-82aa1465b3f5",
+  "providerState": {
+    "providerSessionId": "b8f8a157-d3c2-4e56-8667-82aa1465b3f5"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 324,
+    "cacheReadInputTokens": 107404,
+    "contextWindow": 200000,
+    "contextTokens": 107736,
+    "percentage": 54,
+    "contextWindowIsAuthoritative": true
+  }
+}

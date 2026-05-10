@@ -1,0 +1,14 @@
+{
+  "id": "conv-1777453871311-g7k645in5",
+  "providerId": "claude",
+  "title": "Ingest PROFILE Crohn's disease trial data",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777453871311,
+  "updatedAt": 1777454020651,
+  "lastResponseAt": 1777453874849,
+  "sessionId": "f7dcd5c1-2cb4-4606-94a3-054eca044f9b",
+  "providerState": {
+    "providerSessionId": "f7dcd5c1-2cb4-4606-94a3-054eca044f9b"
+  },
+  "currentNote": "Clippings/A biomarker-stratified comparison of top-down versus accelerated step-up treatment strategies for patients with newly diagnosed Crohn's disease (PROFILE) a multicentre, open-label randomised controlled trial.md"
+}

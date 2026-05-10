@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778238416579-elslu0ju6",
+  "providerId": "claude",
+  "title": "Ingest ARFID-IBD nutrition study",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778238416579,
+  "updatedAt": 1778239261216,
+  "lastResponseAt": 1778239004883,
+  "sessionId": "560891c2-de1c-4bec-b831-86f4f0f7265a",
+  "providerState": {
+    "providerSessionId": "560891c2-de1c-4bec-b831-86f4f0f7265a"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1307,
+    "cacheReadInputTokens": 154695,
+    "contextWindow": 200000,
+    "contextTokens": 156010,
+    "percentage": 78,
+    "contextWindowIsAuthoritative": true
+  }
+}

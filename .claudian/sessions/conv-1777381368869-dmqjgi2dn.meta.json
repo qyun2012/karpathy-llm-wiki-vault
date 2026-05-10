@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777381368869-dmqjgi2dn",
+  "providerId": "claude",
+  "title": "Ingest microbiome IBD diagnosis research",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777381368869,
+  "updatedAt": 1777382063370,
+  "lastResponseAt": 1777381831872,
+  "sessionId": "c355a502-b476-4a0d-a922-6649fa59815a",
+  "providerState": {
+    "providerSessionId": "c355a502-b476-4a0d-a922-6649fa59815a"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1494,
+    "cacheReadInputTokens": 125422,
+    "contextWindow": 200000,
+    "contextTokens": 126924,
+    "percentage": 63,
+    "contextWindowIsAuthoritative": true
+  }
+}

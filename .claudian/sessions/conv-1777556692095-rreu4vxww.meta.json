@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777556692095-rreu4vxww",
+  "providerId": "claude",
+  "title": "Ingest aging and IBD research article",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777556692095,
+  "updatedAt": 1777557636673,
+  "lastResponseAt": 1777556866292,
+  "sessionId": "4ad203f2-573d-4481-b946-160dbd759f7e",
+  "providerState": {
+    "providerSessionId": "4ad203f2-573d-4481-b946-160dbd759f7e"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 280,
+    "cacheReadInputTokens": 124907,
+    "contextWindow": 200000,
+    "contextTokens": 125195,
+    "percentage": 63,
+    "contextWindowIsAuthoritative": true
+  }
+}

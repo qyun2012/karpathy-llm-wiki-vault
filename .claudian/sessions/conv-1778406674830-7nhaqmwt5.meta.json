@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778406674830-7nhaqmwt5",
+  "providerId": "claude",
+  "title": "Ingest ECCO IBD perioperative care roadmap",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778406674830,
+  "updatedAt": 1778407029420,
+  "lastResponseAt": 1778406939815,
+  "sessionId": "8e422a78-fda1-49ac-bff9-e3a0ea3606cf",
+  "providerState": {
+    "providerSessionId": "8e422a78-fda1-49ac-bff9-e3a0ea3606cf"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 481,
+    "cacheReadInputTokens": 138803,
+    "contextWindow": 200000,
+    "contextTokens": 139292,
+    "percentage": 70,
+    "contextWindowIsAuthoritative": true
+  }
+}

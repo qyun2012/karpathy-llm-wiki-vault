@@ -2,8 +2,10 @@
 title: "CDED"
 type: concept
 tags: [克罗恩病, 膳食干预, 排除型饮食, 肠内营养]
-sources: [raw/02-papers/IBD 研究现状与顶尖中心 - Google Gemini.md]
-last_updated: 2026-04-25
+sources:
+  - raw/02-papers/IBD 研究现状与顶尖中心 - Google Gemini.md
+  - Clippings/Dietary Interventions and Oral Nutritional Supplementation in Inflammatory Bowel Disease Current Evidence and Future Directions.md
+last_updated: 2026-05-10
 ---
 
 ## 定义

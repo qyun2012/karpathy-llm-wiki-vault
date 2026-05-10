@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777901722014-a1rf32qzz",
+  "providerId": "claude",
+  "title": "Ingest adaptive Crohn's trial platform",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777901722015,
+  "updatedAt": 1777902488401,
+  "lastResponseAt": 1777901773531,
+  "sessionId": "2463bf08-0626-43c1-8a31-970bc537a43f",
+  "providerState": {
+    "providerSessionId": "2463bf08-0626-43c1-8a31-970bc537a43f"
+  },
+  "currentNote": "raw/01-articles/Clippings/Developing an adaptive platform trial for evaluation of medical treatments for Crohn’s disease - Nature Reviews Gastroenterology & Hepatology.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1117,
+    "cacheReadInputTokens": 78843,
+    "contextWindow": 200000,
+    "contextTokens": 79968,
+    "percentage": 40,
+    "contextWindowIsAuthoritative": true
+  }
+}

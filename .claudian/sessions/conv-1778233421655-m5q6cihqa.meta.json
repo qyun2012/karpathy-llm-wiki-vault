@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778233421655-m5q6cihqa",
+  "providerId": "claude",
+  "title": "Ingest ultraprocessed food IBD study",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778233421655,
+  "updatedAt": 1778235061406,
+  "lastResponseAt": 1778233628814,
+  "sessionId": "69251ab6-2bb6-4070-bf90-795e573f06b4",
+  "providerState": {
+    "providerSessionId": "69251ab6-2bb6-4070-bf90-795e573f06b4"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 385,
+    "cacheReadInputTokens": 135213,
+    "contextWindow": 200000,
+    "contextTokens": 135606,
+    "percentage": 68,
+    "contextWindowIsAuthoritative": true
+  }
+}

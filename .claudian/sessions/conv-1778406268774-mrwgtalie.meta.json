@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778406268774-mrwgtalie",
+  "providerId": "claude",
+  "title": "Ingest perioperative IBD management content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778406268774,
+  "updatedAt": 1778406663646,
+  "lastResponseAt": 1778406551915,
+  "sessionId": "0dfcc217-7096-486e-9b84-69e1e6b4a585",
+  "providerState": {
+    "providerSessionId": "0dfcc217-7096-486e-9b84-69e1e6b4a585"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 4257,
+    "cacheReadInputTokens": 148512,
+    "contextWindow": 200000,
+    "contextTokens": 152777,
+    "percentage": 76,
+    "contextWindowIsAuthoritative": true
+  }
+}

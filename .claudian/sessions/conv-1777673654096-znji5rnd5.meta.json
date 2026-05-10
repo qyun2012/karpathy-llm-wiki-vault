@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777673654096-znji5rnd5",
+  "providerId": "claude",
+  "title": "查询待完成研究项目",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777673654097,
+  "updatedAt": 1777674275812,
+  "lastResponseAt": 1777673848927,
+  "sessionId": "ebec352a-e7da-4f59-a70d-ed2b3ae6051d",
+  "providerState": {
+    "providerSessionId": "ebec352a-e7da-4f59-a70d-ed2b3ae6051d"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1346,
+    "cacheReadInputTokens": 132477,
+    "contextWindow": 200000,
+    "contextTokens": 133831,
+    "percentage": 67,
+    "contextWindowIsAuthoritative": true
+  }
+}

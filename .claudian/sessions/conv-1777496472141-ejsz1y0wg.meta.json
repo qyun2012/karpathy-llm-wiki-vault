@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777496472141-ejsz1y0wg",
+  "providerId": "claude",
+  "title": "Ingest CD-HOPE enteral nutrition trial",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777496472141,
+  "updatedAt": 1777497237109,
+  "lastResponseAt": 1777496735060,
+  "sessionId": "ca0d7a4b-876b-4b20-b846-a47f937321fd",
+  "providerState": {
+    "providerSessionId": "ca0d7a4b-876b-4b20-b846-a47f937321fd"
+  },
+  "currentNote": "Clippings/Cyclic exclusive enteral nutrition versus partial enteral nutrition to maintain long-term drug-free remission in paediatric Crohn's disease (CD-HOPE) an open-label, endpoint-blinded, randomised controlled trial.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 857,
+    "cacheReadInputTokens": 152165,
+    "contextWindow": 200000,
+    "contextTokens": 153030,
+    "percentage": 77,
+    "contextWindowIsAuthoritative": true
+  }
+}

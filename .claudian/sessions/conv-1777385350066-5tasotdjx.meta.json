@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777385350066-5tasotdjx",
+  "providerId": "claude",
+  "title": "实现多组学生物制剂疗效预测验证框架",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777385350066,
+  "updatedAt": 1777386442511,
+  "lastResponseAt": 1777386272123,
+  "sessionId": "6eaca7cb-e426-43be-8cb5-6ecf8d32b94c",
+  "providerState": {
+    "providerSessionId": "6eaca7cb-e426-43be-8cb5-6ecf8d32b94c"
+  },
+  "currentNote": "wiki/sources/数据获取指南-microbiome-ibd-multiomics.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

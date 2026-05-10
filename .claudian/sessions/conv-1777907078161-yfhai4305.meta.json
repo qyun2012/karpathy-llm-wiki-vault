@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777907078161-yfhai4305",
+  "providerId": "claude",
+  "title": "优化研究的科学性与可行性",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777907078161,
+  "updatedAt": 1777907598582,
+  "lastResponseAt": 1777907331163,
+  "sessionId": "d443bc1a-13cd-4c22-9eb2-e086d7087bdd",
+  "providerState": {
+    "providerSessionId": "d443bc1a-13cd-4c22-9eb2-e086d7087bdd"
+  },
+  "currentNote": "wiki/研究方案（初稿）.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1648,
+    "cacheReadInputTokens": 124868,
+    "contextWindow": 200000,
+    "contextTokens": 126524,
+    "percentage": 63,
+    "contextWindowIsAuthoritative": true
+  }
+}

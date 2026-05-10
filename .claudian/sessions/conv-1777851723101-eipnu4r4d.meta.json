@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777851723101-eipnu4r4d",
+  "providerId": "claude",
+  "title": "Install and update llm-wiki-skill",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777851723101,
+  "updatedAt": 1777852932824,
+  "lastResponseAt": 1777852453751,
+  "sessionId": "d4874e3c-ad25-464b-82e9-63a22a0cffd9",
+  "providerState": {
+    "providerSessionId": "d4874e3c-ad25-464b-82e9-63a22a0cffd9"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1115,
+    "cacheReadInputTokens": 99698,
+    "contextWindow": 200000,
+    "contextTokens": 100821,
+    "percentage": 50,
+    "contextWindowIsAuthoritative": true
+  }
+}

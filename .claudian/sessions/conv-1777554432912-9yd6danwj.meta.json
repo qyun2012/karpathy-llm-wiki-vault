@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777554432912-9yd6danwj",
+  "providerId": "claude",
+  "title": "Ingest IBD therapeutic landscape review",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777554432913,
+  "updatedAt": 1777555813536,
+  "lastResponseAt": 1777554926596,
+  "sessionId": "6c9e22fb-495a-40b0-b92a-b845c42a354a",
+  "providerState": {
+    "providerSessionId": "6c9e22fb-495a-40b0-b92a-b845c42a354a"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 315,
+    "cacheReadInputTokens": 160135,
+    "contextWindow": 200000,
+    "contextTokens": 160458,
+    "percentage": 80,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778271433536-6p9spabfq",
+  "providerId": "claude",
+  "title": "深化术后管理论文内容与索引",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778271433537,
+  "updatedAt": 1778274850351,
+  "lastResponseAt": 1778274722065,
+  "sessionId": "c3bde360-fb4c-42dd-87c0-d7d20a531e1a",
+  "providerState": {
+    "providerSessionId": "c3bde360-fb4c-42dd-87c0-d7d20a531e1a"
+  },
+  "currentNote": "wiki/术后管理.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 634,
+    "cacheReadInputTokens": 80593,
+    "contextWindow": 200000,
+    "contextTokens": 81237,
+    "percentage": 41,
+    "contextWindowIsAuthoritative": true
+  }
+}

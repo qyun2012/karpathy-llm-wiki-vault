@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777454038643-y5wt8iho0",
+  "providerId": "claude",
+  "title": "Ingest PROFILE Crohn's disease trial",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777454038643,
+  "updatedAt": 1777457319975,
+  "lastResponseAt": 1777457005583,
+  "sessionId": "9344160c-a0a8-46c4-9be4-4b0634efe00b",
+  "providerState": {
+    "providerSessionId": "9344160c-a0a8-46c4-9be4-4b0634efe00b"
+  },
+  "currentNote": "README.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1303,
+    "cacheReadInputTokens": 114032,
+    "contextWindow": 200000,
+    "contextTokens": 115343,
+    "percentage": 58,
+    "contextWindowIsAuthoritative": true
+  }
+}

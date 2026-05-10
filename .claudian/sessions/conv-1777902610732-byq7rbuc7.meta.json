@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777902610732-byq7rbuc7",
+  "providerId": "claude",
+  "title": "Ingest adaptive platform trial research",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777902610733,
+  "updatedAt": 1777903017239,
+  "lastResponseAt": 1777902784521,
+  "sessionId": "32cc33c6-80d0-40af-bb86-9293a158fabe",
+  "providerState": {
+    "providerSessionId": "32cc33c6-80d0-40af-bb86-9293a158fabe"
+  },
+  "currentNote": "raw/02-papers/术后肠内营养在炎症性肠病中的应用.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 499,
+    "cacheReadInputTokens": 130241,
+    "contextWindow": 200000,
+    "contextTokens": 130748,
+    "percentage": 65,
+    "contextWindowIsAuthoritative": true
+  }
+}

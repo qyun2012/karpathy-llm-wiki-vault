@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778424992832-53423esd7",
+  "providerId": "claude",
+  "title": "Install Obsidian visual skills for Claude",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778424992833,
+  "updatedAt": 1778425197555,
+  "lastResponseAt": 1778425086239,
+  "sessionId": "d32b14f0-51a4-4b77-a441-d02564b41c21",
+  "providerState": {
+    "providerSessionId": "d32b14f0-51a4-4b77-a441-d02564b41c21"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 2426,
+    "cacheReadInputTokens": 82205,
+    "contextWindow": 200000,
+    "contextTokens": 84639,
+    "percentage": 42,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "conv-1777901490840-shamazzsr",
+  "providerId": "claude",
+  "title": "Ingest adaptive platform trial study",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777901490841,
+  "updatedAt": 1777901700279,
+  "lastResponseAt": 1777901494193,
+  "sessionId": "3f7d604f-59d5-48d6-8c9b-079841b861d9",
+  "providerState": {
+    "providerSessionId": "3f7d604f-59d5-48d6-8c9b-079841b861d9"
+  },
+  "currentNote": "Clippings/Developing an adaptive platform trial for evaluation of medical treatments for Crohn’s disease - Nature Reviews Gastroenterology & Hepatology.md"
+}

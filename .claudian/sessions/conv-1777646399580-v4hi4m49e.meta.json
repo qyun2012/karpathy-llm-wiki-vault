@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777646399580-v4hi4m49e",
+  "providerId": "claude",
+  "title": "分析老年IBD虚弱评估工具与开发意义",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777646399581,
+  "updatedAt": 1777671474984,
+  "lastResponseAt": 1777670700181,
+  "sessionId": "e6512b8b-9ea4-4a1a-b72f-7319113d0474",
+  "providerState": {
+    "providerSessionId": "e6512b8b-9ea4-4a1a-b72f-7319113d0474"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 682,
+    "cacheReadInputTokens": 141696,
+    "contextWindow": 200000,
+    "contextTokens": 142386,
+    "percentage": 71,
+    "contextWindowIsAuthoritative": true
+  }
+}

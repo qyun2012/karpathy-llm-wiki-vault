@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778244378750-qjo99veic",
+  "providerId": "claude",
+  "title": "Ingest Crohn's disease research paper",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778244378751,
+  "updatedAt": 1778246041221,
+  "lastResponseAt": 1778245949957,
+  "sessionId": "d65232c3-14d8-4a4d-b245-6887f3d64906",
+  "providerState": {
+    "providerSessionId": "d65232c3-14d8-4a4d-b245-6887f3d64906"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 354,
+    "cacheReadInputTokens": 93424,
+    "contextWindow": 200000,
+    "contextTokens": 93786,
+    "percentage": 47,
+    "contextWindowIsAuthoritative": true
+  }
+}

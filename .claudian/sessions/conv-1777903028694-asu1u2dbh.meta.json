@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777903028694-asu1u2dbh",
+  "providerId": "claude",
+  "title": "Audit Wiki Structure",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777903028695,
+  "updatedAt": 1777906900389,
+  "lastResponseAt": 1777906591313,
+  "sessionId": "53253150-35f3-4bb7-8298-63d3ce5fca5b",
+  "providerState": {
+    "providerSessionId": "53253150-35f3-4bb7-8298-63d3ce5fca5b"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 3297,
+    "cacheReadInputTokens": 111452,
+    "contextWindow": 200000,
+    "contextTokens": 114757,
+    "percentage": 57,
+    "contextWindowIsAuthoritative": true
+  }
+}

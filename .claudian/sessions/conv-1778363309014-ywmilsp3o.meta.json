@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778363309014-ywmilsp3o",
+  "providerId": "claude",
+  "title": "Develop elderly IBD systematic review framework",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778363309014,
+  "updatedAt": 1778406251661,
+  "lastResponseAt": 1778364392254,
+  "sessionId": "d366ecff-fa6b-4928-9e76-79d019174f82",
+  "providerState": {
+    "providerSessionId": "d366ecff-fa6b-4928-9e76-79d019174f82"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1177,
+    "cacheReadInputTokens": 148038,
+    "contextWindow": 200000,
+    "contextTokens": 149223,
+    "percentage": 75,
+    "contextWindowIsAuthoritative": true
+  }
+}

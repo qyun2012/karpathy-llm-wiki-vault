@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777576856589-kdk18ptsw",
+  "providerId": "claude",
+  "title": "Ingest 2025 elderly IBD management study",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777576856589,
+  "updatedAt": 1777577670495,
+  "lastResponseAt": 1777577265772,
+  "sessionId": "42d6e6ec-7561-42e2-bd19-15f8055988b1",
+  "providerState": {
+    "providerSessionId": "42d6e6ec-7561-42e2-bd19-15f8055988b1"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 262,
+    "cacheReadInputTokens": 145528,
+    "contextWindow": 200000,
+    "contextTokens": 145798,
+    "percentage": 73,
+    "contextWindowIsAuthoritative": true
+  }
+}

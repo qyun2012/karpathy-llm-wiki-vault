@@ -1,0 +1,1 @@
+![[Defining predictors of responsiveness to advanced therapies in Crohn’s disease and ulcerative colitis- protocol for the IBD-RESPONSE and nested CD-metaRESPONSE prospective, multicentre, observational cohort study in precision medicine.pdf]]

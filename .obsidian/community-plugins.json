@@ -1,10 +1,5 @@
 [
-  "chatgpt-md",
-  "large-language-models",
-  "obsidian-mind-map",
-  "obsidian-excalidraw-plugin",
   "calendar",
-  "copilot",
   "templater-obsidian",
   "claudian",
   "obsidian42-brat",
@@ -12,7 +7,10 @@
   "pdf-plus",
   "obsidian-kanban",
   "obsidian-pandoc",
-  "obsidian-extract-pdf-highlights",
   "obsidian-zotero-desktop-connector",
-  "google-drive-sync"
+  "obsidian-importer",
+  "obsidian-import-json",
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git"
 ]

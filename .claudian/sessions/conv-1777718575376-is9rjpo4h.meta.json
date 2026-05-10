@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777718575376-is9rjpo4h",
+  "providerId": "claude",
+  "title": "Ingest STRIDE-II IBD therapeutic targets document",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777718575377,
+  "updatedAt": 1777718910499,
+  "lastResponseAt": 1777718876632,
+  "sessionId": "a64db3df-a1c0-4689-8210-0289cb1fdce0",
+  "providerState": {
+    "providerSessionId": "a64db3df-a1c0-4689-8210-0289cb1fdce0"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 308,
+    "cacheReadInputTokens": 148464,
+    "contextWindow": 200000,
+    "contextTokens": 148780,
+    "percentage": 74,
+    "contextWindowIsAuthoritative": true
+  }
+}

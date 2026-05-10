@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777729868721-id8jinfwe",
+  "providerId": "claude",
+  "title": "Query Kiel and KU Leuven cohorts",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777729868722,
+  "updatedAt": 1777731758984,
+  "lastResponseAt": 1777730170279,
+  "sessionId": "13b3aee9-100d-4779-aee1-9c14a7a7b397",
+  "providerState": {
+    "providerSessionId": "13b3aee9-100d-4779-aee1-9c14a7a7b397"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 4259,
+    "cacheReadInputTokens": 160827,
+    "contextWindow": 200000,
+    "contextTokens": 165094,
+    "percentage": 83,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777375706850-cyuk0eqnj",
+  "providerId": "claude",
+  "title": "Ingest gut precision medicine review",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777375706850,
+  "updatedAt": 1777377613961,
+  "lastResponseAt": 1777377229620,
+  "sessionId": "ef5654fc-4a97-4f36-9b43-c2c17a435bcd",
+  "providerState": {
+    "providerSessionId": "ef5654fc-4a97-4f36-9b43-c2c17a435bcd"
+  },
+  "currentNote": "README.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 12359,
+    "cacheReadInputTokens": 67877,
+    "contextWindow": 200000,
+    "contextTokens": 80246,
+    "percentage": 40,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777553078447-6f8l33rt1",
+  "providerId": "claude",
+  "title": "Ingest IBD aging frailty trials",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777553078447,
+  "updatedAt": 1777553878261,
+  "lastResponseAt": 1777553571425,
+  "sessionId": "ab925d05-759d-453e-9f06-c39e9f287d1f",
+  "providerState": {
+    "providerSessionId": "ab925d05-759d-453e-9f06-c39e9f287d1f"
+  },
+  "currentNote": "wiki/syntheses/synthesis-ibd-clinical-research-entry-points.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 242,
+    "cacheReadInputTokens": 154712,
+    "contextWindow": 200000,
+    "contextTokens": 154962,
+    "percentage": 77,
+    "contextWindowIsAuthoritative": true
+  }
+}

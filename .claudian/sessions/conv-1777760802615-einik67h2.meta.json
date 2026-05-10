@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777760802615-einik67h2",
+  "providerId": "claude",
+  "title": "Ingest XAI-IBD metabolomics study",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777760802615,
+  "updatedAt": 1777761318649,
+  "lastResponseAt": 1777761110335,
+  "sessionId": "7869eb21-7a83-4111-90ee-d168cf7bf86c",
+  "providerState": {
+    "providerSessionId": "7869eb21-7a83-4111-90ee-d168cf7bf86c"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 2109,
+    "cacheReadInputTokens": 133112,
+    "contextWindow": 200000,
+    "contextTokens": 135229,
+    "percentage": 68,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -204,7 +204,7 @@ S1P 受体激动
 
 - [[Etrasimod]] — 代表性 S1P 受体调节剂
 - [[Ulcerative_Colitis]] — 主要临床适应症
-- [[Crohns_Disease]] — 应用扩展中的适应症
+- [[Crohn_Disease]] — 应用扩展中的适应症
 - [[Microbiome_Host_Interactions]] — 底层免疫-菌群机制
 - [[Xenolipids]] — 潜在的下游代谢改变
 - [[摘要-etrasimod-uc-clinical-research]] — 临床研究框架

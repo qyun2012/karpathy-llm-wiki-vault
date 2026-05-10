@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778408440946-be32jfqqe",
+  "providerId": "claude",
+  "title": "评估研究方案是否需更新",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778408440946,
+  "updatedAt": 1778409258412,
+  "lastResponseAt": 1778408844033,
+  "sessionId": "18f71b0b-8eb4-4a02-b78a-7c26011dd205",
+  "providerState": {
+    "providerSessionId": "18f71b0b-8eb4-4a02-b78a-7c26011dd205"
+  },
+  "currentNote": "raw/notes/研究方案.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 2221,
+    "cacheReadInputTokens": 160811,
+    "contextWindow": 200000,
+    "contextTokens": 163040,
+    "percentage": 82,
+    "contextWindowIsAuthoritative": true
+  }
+}

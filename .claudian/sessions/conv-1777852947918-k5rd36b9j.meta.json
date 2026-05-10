@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777852947918-k5rd36b9j",
+  "providerId": "claude",
+  "title": "Ingest digital health IBD efficacy review",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777852947918,
+  "updatedAt": 1777853889959,
+  "lastResponseAt": 1777853548882,
+  "sessionId": "040bc86b-adc6-4f65-b534-c605e4fe0b1f",
+  "providerState": {
+    "providerSessionId": "040bc86b-adc6-4f65-b534-c605e4fe0b1f"
+  },
+  "currentNote": "Clippings/Efficacy of digital health technologies in the management of inflammatory bowel disease an umbrella review.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 18156,
+    "cacheReadInputTokens": 69174,
+    "contextWindow": 200000,
+    "contextTokens": 87340,
+    "percentage": 44,
+    "contextWindowIsAuthoritative": true
+  }
+}

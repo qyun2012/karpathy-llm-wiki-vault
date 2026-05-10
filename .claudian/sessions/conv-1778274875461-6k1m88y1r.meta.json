@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778274875461-6k1m88y1r",
+  "providerId": "claude",
+  "title": "Revise manuscript and highlight changes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778274875461,
+  "updatedAt": 1778355470595,
+  "lastResponseAt": 1778355456194,
+  "sessionId": "b29f2b6d-a986-4316-8d4c-afcf50838984",
+  "providerState": {
+    "providerSessionId": "b29f2b6d-a986-4316-8d4c-afcf50838984"
+  },
+  "currentNote": "wiki/术后管理.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1371,
+    "cacheReadInputTokens": 122082,
+    "contextWindow": 200000,
+    "contextTokens": 123461,
+    "percentage": 62,
+    "contextWindowIsAuthoritative": true
+  }
+}

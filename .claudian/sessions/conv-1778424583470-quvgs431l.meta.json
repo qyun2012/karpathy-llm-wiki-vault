@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778424583470-quvgs431l",
+  "providerId": "claude",
+  "title": "Install Obsidian visual skills plugin",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778424583470,
+  "updatedAt": 1778424942055,
+  "lastResponseAt": 1778424844946,
+  "sessionId": "5806bd12-8169-4ea3-afb9-3ed4c86271b6",
+  "providerState": {
+    "providerSessionId": "5806bd12-8169-4ea3-afb9-3ed4c86271b6"
+  },
+  "currentNote": "raw/notes/未命名.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 80345,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 80355,
+    "percentage": 40,
+    "contextWindowIsAuthoritative": true
+  }
+}

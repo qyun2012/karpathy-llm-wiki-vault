@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777584449580-n09aunpiz",
+  "providerId": "claude",
+  "title": "设计循证临床试验概案",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777584449581,
+  "updatedAt": 1777584713104,
+  "lastResponseAt": 1777584648895,
+  "sessionId": "2c686707-b935-4689-9fc2-63cb75fa97ba",
+  "providerState": {
+    "providerSessionId": "2c686707-b935-4689-9fc2-63cb75fa97ba"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 77916,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 77926,
+    "percentage": 39,
+    "contextWindowIsAuthoritative": true
+  }
+}

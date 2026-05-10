@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777719173620-x7ut84zls",
+  "providerId": "claude",
+  "title": "Lint knowledge base",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777719173620,
+  "updatedAt": 1777720449224,
+  "lastResponseAt": 1777720398218,
+  "sessionId": "7df7decd-3cdc-4b42-9179-a67bca526600",
+  "providerState": {
+    "providerSessionId": "7df7decd-3cdc-4b42-9179-a67bca526600"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 420,
+    "cacheReadInputTokens": 163817,
+    "contextWindow": 200000,
+    "contextTokens": 164245,
+    "percentage": 82,
+    "contextWindowIsAuthoritative": true
+  }
+}

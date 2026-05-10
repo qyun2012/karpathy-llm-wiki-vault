@@ -205,7 +205,7 @@ last_updated: 2026-04-24
 - [[Etrasimod]] — 新型治疗药物
 - [[S1P_Receptor_Modulators]] — 药物机制类别
 - [[摘要-etrasimod-uc-clinical-research]] — 临床研究规划
-- [[Crohns_Disease]] — 相关的 IBD 疾病
+- [[Crohn_Disease]] — 相关的 IBD 疾病
 - [[Microbiome_Host_Interactions]] — 底层病理机制
 - [[Xenolipids]] — 新型治疗靶点的潜在方向
 

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777761955050-1wcltkft6",
+  "providerId": "claude",
+  "title": "Ingest Research Groups mitarget",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777761955050,
+  "updatedAt": 1777762667473,
+  "lastResponseAt": 1777762060046,
+  "sessionId": "6367c289-9069-4e80-a6be-f48f88fcea99",
+  "providerState": {
+    "providerSessionId": "6367c289-9069-4e80-a6be-f48f88fcea99"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 234,
+    "cacheReadInputTokens": 112972,
+    "contextWindow": 200000,
+    "contextTokens": 113214,
+    "percentage": 57,
+    "contextWindowIsAuthoritative": true
+  }
+}

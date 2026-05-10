@@ -1,0 +1,28 @@
+处理记录
+========
+
+原始文件：Clippings/Efficacy of digital health technologies in the management of inflammatory bowel disease an umbrella review.md
+处理日期：2026-05-04
+处理状态：已完成
+
+创建的Wiki页面：
+- 源摘要：wiki/sources/摘要-digital-health-ibd-umbrella-review.md
+- 概念：wiki/concepts/Digital_Health_Technologies.md
+- 概念：wiki/concepts/Umbrella_Review.md
+- 概念：wiki/concepts/Remote_Care_and_Telemedicine.md
+- 实体：wiki/entities/myIBDcoach.md
+- 实体：wiki/entities/The_Lancet.md
+
+更新的页面：
+- wiki/concepts/Inflammatory-Bowel-Disease.md
+- wiki/index.md
+- wiki/log.md
+
+操作完成标志：
+✓ 源文件已阅读并理解
+✓ 核心信息已提炼
+✓ 源摘要已创建
+✓ 概念页面已创建
+✓ 实体页面已创建
+✓ 全局索引已更新
+✓ 操作日志已记录

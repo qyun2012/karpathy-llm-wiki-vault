@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777495133495-o0alo5j7o",
+  "providerId": "claude",
+  "title": "Ingest AGA IBD Nutrition Guidelines",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777495133495,
+  "updatedAt": 1777496441436,
+  "lastResponseAt": 1777495395919,
+  "sessionId": "92b328b3-3bc4-4bd3-93fe-5b0f1ace9932",
+  "providerState": {
+    "providerSessionId": "92b328b3-3bc4-4bd3-93fe-5b0f1ace9932"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 229,
+    "cacheReadInputTokens": 122138,
+    "contextWindow": 200000,
+    "contextTokens": 122375,
+    "percentage": 61,
+    "contextWindowIsAuthoritative": true
+  }
+}

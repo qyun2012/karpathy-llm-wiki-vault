@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777574261997-8yk7o7lf0",
+  "providerId": "claude",
+  "title": "Ingest immunosenescence dietary study",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777574261997,
+  "updatedAt": 1777574888184,
+  "lastResponseAt": 1777574649195,
+  "sessionId": "464779bb-9765-414a-9379-a468f4740cc1",
+  "providerState": {
+    "providerSessionId": "464779bb-9765-414a-9379-a468f4740cc1"
+  },
+  "currentNote": "Clippings/Age Versus Immunity Dietary Influences on Immunosenescence.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 239,
+    "cacheReadInputTokens": 147966,
+    "contextWindow": 200000,
+    "contextTokens": 148213,
+    "percentage": 74,
+    "contextWindowIsAuthoritative": true
+  }
+}

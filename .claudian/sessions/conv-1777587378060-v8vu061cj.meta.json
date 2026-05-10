@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777587378060-v8vu061cj",
+  "providerId": "claude",
+  "title": "Create IBD Elderly Annual Review Framework",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777587378060,
+  "updatedAt": 1777588964038,
+  "lastResponseAt": 1777587829230,
+  "sessionId": "99d7a466-b0f4-4e91-a1d5-a9e4fc0902d6",
+  "providerState": {
+    "providerSessionId": "99d7a466-b0f4-4e91-a1d5-a9e4fc0902d6"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 647,
+    "cacheReadInputTokens": 135808,
+    "contextWindow": 200000,
+    "contextTokens": 136463,
+    "percentage": 68,
+    "contextWindowIsAuthoritative": true
+  }
+}

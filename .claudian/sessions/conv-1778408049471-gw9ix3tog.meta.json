@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778408049471-gw9ix3tog",
+  "providerId": "claude",
+  "title": "Ingest ECCO AI IBD Surgery Workshop",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778408049472,
+  "updatedAt": 1778408386699,
+  "lastResponseAt": 1778408313904,
+  "sessionId": "f26c72b5-66a0-4219-b930-0cf8aceb51e3",
+  "providerState": {
+    "providerSessionId": "f26c72b5-66a0-4219-b930-0cf8aceb51e3"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 499,
+    "cacheReadInputTokens": 137040,
+    "contextWindow": 200000,
+    "contextTokens": 137547,
+    "percentage": 69,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778407233983-ofe8g2to0",
+  "providerId": "claude",
+  "title": "Ingest IBD Dietary Interventions Article",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778407233983,
+  "updatedAt": 1778407525221,
+  "lastResponseAt": 1778407454549,
+  "sessionId": "c4fb831a-c209-4ba4-bc10-deb8e39f9790",
+  "providerState": {
+    "providerSessionId": "c4fb831a-c209-4ba4-bc10-deb8e39f9790"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 327,
+    "cacheReadInputTokens": 128572,
+    "contextWindow": 200000,
+    "contextTokens": 128907,
+    "percentage": 64,
+    "contextWindowIsAuthoritative": true
+  }
+}

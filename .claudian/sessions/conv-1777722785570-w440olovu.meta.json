@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777722785570-w440olovu",
+  "providerId": "claude",
+  "title": "Ingest Crohn's Disease gut signatures research",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777722785570,
+  "updatedAt": 1777729849457,
+  "lastResponseAt": 1777729568664,
+  "sessionId": "60066cd8-034d-4547-b6ed-b76f1c90fa3c",
+  "providerState": {
+    "providerSessionId": "60066cd8-034d-4547-b6ed-b76f1c90fa3c"
+  },
+  "currentNote": "Clippings/Perturbations of Diet and Gut Signatures Persist During Remission in Crohn’s Disease Despite Effective Immune Suppression.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 556,
+    "cacheReadInputTokens": 120025,
+    "contextWindow": 200000,
+    "contextTokens": 120589,
+    "percentage": 60,
+    "contextWindowIsAuthoritative": true
+  }
+}

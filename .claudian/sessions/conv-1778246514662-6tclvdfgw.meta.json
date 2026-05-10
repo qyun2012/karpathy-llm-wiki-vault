@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778246514662-6tclvdfgw",
+  "providerId": "claude",
+  "title": "Ingest IBD dietary management consensus",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778246514662,
+  "updatedAt": 1778246815636,
+  "lastResponseAt": 1778246647432,
+  "sessionId": "b5ec759b-4ee0-409e-a23e-279f5d85ac4b",
+  "providerState": {
+    "providerSessionId": "b5ec759b-4ee0-409e-a23e-279f5d85ac4b"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 925,
+    "cacheReadInputTokens": 106192,
+    "contextWindow": 200000,
+    "contextTokens": 107125,
+    "percentage": 54,
+    "contextWindowIsAuthoritative": true
+  }
+}

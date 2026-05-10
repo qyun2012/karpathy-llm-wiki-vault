@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777851224985-m5r6b030c",
+  "providerId": "claude",
+  "title": "Install multiple platform variants",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777851224985,
+  "updatedAt": 1777851251535,
+  "lastResponseAt": 1777851236992,
+  "sessionId": "9eb833ae-ff22-4f4a-ad0d-dd7724a1e172",
+  "providerState": {
+    "providerSessionId": "9eb833ae-ff22-4f4a-ad0d-dd7724a1e172"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 33246,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 33256,
+    "percentage": 17,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778237191452-b32vupkdu",
+  "providerId": "claude",
+  "title": "Ingest IBD research challenges",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778237191452,
+  "updatedAt": 1778238402703,
+  "lastResponseAt": 1778237372388,
+  "sessionId": "29d97d7c-7db8-45cf-90c2-da3c687c5b56",
+  "providerState": {
+    "providerSessionId": "29d97d7c-7db8-45cf-90c2-da3c687c5b56"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 277,
+    "cacheReadInputTokens": 142413,
+    "contextWindow": 200000,
+    "contextTokens": 142698,
+    "percentage": 71,
+    "contextWindowIsAuthoritative": true
+  }
+}

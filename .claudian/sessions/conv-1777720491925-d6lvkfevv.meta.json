@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777720491925-d6lvkfevv",
+  "providerId": "claude",
+  "title": "分析未来研究方向与临床空白",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777720491926,
+  "updatedAt": 1777722703452,
+  "lastResponseAt": 1777721630972,
+  "sessionId": "a41500d1-abd2-468d-bbc1-390eade548e9",
+  "providerState": {
+    "providerSessionId": "a41500d1-abd2-468d-bbc1-390eade548e9"
+  },
+  "currentNote": "wiki/synthesis-IBD-4phase-closed-loop-review-draft.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 2306,
+    "cacheReadInputTokens": 151795,
+    "contextWindow": 200000,
+    "contextTokens": 154109,
+    "percentage": 77,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777559754066-ik8w6gioa",
+  "providerId": "claude",
+  "title": "Ingest immunosenescence signaling",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777559754066,
+  "updatedAt": 1777560797168,
+  "lastResponseAt": 1777560357862,
+  "sessionId": "c9a132f9-1b2f-467c-aece-2d97a791c523",
+  "providerState": {
+    "providerSessionId": "c9a132f9-1b2f-467c-aece-2d97a791c523"
+  },
+  "currentNote": "Clippings/Immunosenescence signaling pathways, diseases and therapeutic targets - Signal Transduction and Targeted Therapy.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 2157,
+    "cacheReadInputTokens": 139271,
+    "contextWindow": 200000,
+    "contextTokens": 141436,
+    "percentage": 71,
+    "contextWindowIsAuthoritative": true
+  }
+}

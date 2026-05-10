@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777500677398-pcci6nz9s",
+  "providerId": "claude",
+  "title": "Ingest dietary fiber IBD research",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777500677398,
+  "updatedAt": 1777501452056,
+  "lastResponseAt": 1777500911972,
+  "sessionId": "00182ca5-dc85-42df-986f-a871f1db026a",
+  "providerState": {
+    "providerSessionId": "00182ca5-dc85-42df-986f-a871f1db026a"
+  },
+  "currentNote": "Clippings/Dietary Fiber in Inflammatory Bowel Disease Are We Ready to Change the Paradigm? 1.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 5060,
+    "cacheReadInputTokens": 133588,
+    "contextWindow": 200000,
+    "contextTokens": 138656,
+    "percentage": 69,
+    "contextWindowIsAuthoritative": true
+  }
+}

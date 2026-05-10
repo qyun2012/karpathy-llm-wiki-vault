@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778427144436-du25845wo",
+  "providerId": "claude",
+  "title": "Fix Excalidraw view not opening",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778427144436,
+  "updatedAt": 1778427164016,
+  "lastResponseAt": 1778427164016,
+  "sessionId": "97d4e9a7-19ba-4350-adb5-c91e9accdf6b",
+  "providerState": {
+    "providerSessionId": "97d4e9a7-19ba-4350-adb5-c91e9accdf6b"
+  },
+  "currentNote": "Crohn's Postoperative Management.flowchart.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 18989,
+    "cacheReadInputTokens": 73812,
+    "contextWindow": 200000,
+    "contextTokens": 92809,
+    "percentage": 46,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777379975443-f2xwttq8z",
+  "providerId": "claude",
+  "title": "Ingest IBD microbiome metabolic modeling",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777379975443,
+  "updatedAt": 1777381232198,
+  "lastResponseAt": 1777380658521,
+  "sessionId": "65e15e60-2489-4bc8-956d-edcd35177e72",
+  "providerState": {
+    "providerSessionId": "65e15e60-2489-4bc8-956d-edcd35177e72"
+  },
+  "currentNote": "Clippings/Metabolic modeling reveals a multi-level deregulation of host-microbiome metabolic networks in IBD.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 4821,
+    "cacheReadInputTokens": 111218,
+    "contextWindow": 200000,
+    "contextTokens": 116047,
+    "percentage": 58,
+    "contextWindowIsAuthoritative": true
+  }
+}

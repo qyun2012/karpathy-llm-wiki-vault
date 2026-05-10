@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777735317488-7tnh8ld4q",
+  "providerId": "claude",
+  "title": "Ingest Crohn's disease genomics research",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777735317489,
+  "updatedAt": 1777760539376,
+  "lastResponseAt": 1777735504269,
+  "sessionId": "068199e0-bc7f-427b-8c88-a79eb5eeda28",
+  "providerState": {
+    "providerSessionId": "068199e0-bc7f-427b-8c88-a79eb5eeda28"
+  },
+  "currentNote": "Clippings/Mucosal Inflammatory and Wound Healing Gene Programmes Reveal Targets for Stricturing Behaviour in Paediatric Crohn’s Disease.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1096,
+    "cacheReadInputTokens": 125008,
+    "contextWindow": 200000,
+    "contextTokens": 126112,
+    "percentage": 63,
+    "contextWindowIsAuthoritative": true
+  }
+}

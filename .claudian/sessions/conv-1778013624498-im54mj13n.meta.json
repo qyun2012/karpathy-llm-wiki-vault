@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778013624498-im54mj13n",
+  "providerId": "claude",
+  "title": "Ingest digital biomarkers healthcare content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778013624498,
+  "updatedAt": 1778014140273,
+  "lastResponseAt": 1778013939014,
+  "sessionId": "f97dcd6d-d093-4f65-ab96-d1641366fc9c",
+  "providerState": {
+    "providerSessionId": "f97dcd6d-d093-4f65-ab96-d1641366fc9c"
+  },
+  "currentNote": "Clippings/Challenges and potential of using digital biomarkers in healthcare and clinical trials.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1252,
+    "cacheReadInputTokens": 123008,
+    "contextWindow": 200000,
+    "contextTokens": 124268,
+    "percentage": 62,
+    "contextWindowIsAuthoritative": true
+  }
+}

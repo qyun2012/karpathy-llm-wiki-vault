@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777732141067-9bss0bqn9",
+  "providerId": "claude",
+  "title": "Ingest Crohn's microbiome research",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777732141067,
+  "updatedAt": 1777734574023,
+  "lastResponseAt": 1777734476733,
+  "sessionId": "bfde2293-e2fa-43cd-a7a0-74b85828b3a7",
+  "providerState": {
+    "providerSessionId": "bfde2293-e2fa-43cd-a7a0-74b85828b3a7"
+  },
+  "currentNote": "Clippings/The Microbiome in Quiescent Crohn’s Disease With Persistent Symptoms Show Disruptions in Microbial Sulfur and Tryptophan Pathways.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 2328,
+    "cacheReadInputTokens": 115720,
+    "contextWindow": 200000,
+    "contextTokens": 118056,
+    "percentage": 59,
+    "contextWindowIsAuthoritative": true
+  }
+}

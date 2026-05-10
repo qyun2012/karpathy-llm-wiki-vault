@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d521fa892a76017f",
+        "id": "063f755af3424862",
         "type": "tabs",
         "children": [
           {
-            "id": "973c54d37aac5cbb",
+            "id": "7b7b44e1c9717128",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Crohn's Postoperative Management.flowchart.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Crohn's Postoperative Management.flowchart"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "flowcha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 344.5
   },
   "right": {
     "id": "9209bdcd78aec6dd",
@@ -172,16 +176,6 @@
             }
           },
           {
-            "id": "eba0e625b79212fe",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
             "id": "b5d77247f1b40f61",
             "type": "leaf",
             "state": {
@@ -190,13 +184,23 @@
               "icon": "bot",
               "title": "Claudian"
             }
+          },
+          {
+            "id": "1f121e2a280aab2b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 490.5
+    "width": 520.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +208,6 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-kanban:创建新看板": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
@@ -214,54 +217,63 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "large-language-models:Ask a question": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "copilot:Open Copilot Chat": false,
       "templater-obsidian:Templater": false,
       "claudian:Open Claudian": false,
       "obsidian42-brat:BRAT": false,
-      "claude-code-mcp:Toggle Claude Terminal": false
+      "claude-code-mcp:Toggle Claude Terminal": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b5d77247f1b40f61",
   "lastOpenFiles": [
-    "raw/09-archive/IBD 研究现状与顶尖中心 - Google Gemini.md",
-    "README.md",
-    "wiki/entities/粪便钙卫蛋白.md",
-    "wiki/entities/Etrasimod.md",
-    "wiki/concepts/IBD膳食干预.md",
-    "wiki/concepts/CDED.md",
-    "wiki/concepts/精准营养.md",
-    "wiki/sources/摘要-IBD研究现状与膳食干预.md",
-    "wiki/文献调研.md",
-    "raw/02-papers/IBD 研究现状与顶尖中心 - Google Gemini.md",
-    "Clippings/Note Taking & Research Assistant Powered by AI 1.md",
-    "Clippings/Note Taking & Research Assistant Powered by AI.md",
-    "Clippings/IBD_TDM_Investigator_Network.md",
-    "wiki/concepts/膳食纤维悖论.md",
-    "wiki/concepts/菌群干预证据阶梯.md",
-    "wiki/index.md",
-    "wiki/concepts/特殊饮食在IBD中的应用.md",
-    "wiki/膳食纤维悖论.md",
-    "wiki/特殊饮食在IBD中的应用.md",
-    "wiki/sources/摘要-biologic-agents-ibd.md",
+    "Crohn's Postoperative Management.flowchart.md",
+    "wiki/IBD精准医学的闭环诊疗系统.md",
+    "Clippings/Study Details  NCT02201693  Cyclic Exclusive Enteral Nutrition as Maintenance Therapy for Pediatric Crohn's Disease.md",
+    "raw/notes/未命名.md",
+    "raw/notes/研究方案.md",
+    "wiki/sources/摘要-IBD术后营养生物制剂协同研究协议.md",
+    "wiki/sources/摘要-ECCO-AI-IBD外科.md",
+    "wiki/sources/摘要-ECCO会议荟萃-IBD-2021-2026.md",
+    "raw/09-archive/Results of the Ninth Scientific Workshop of the European Crohn’s and Colitis Organisation (ECCO) artificial intelligence in IBD surgery—opportunities and limitations.md",
+    "wiki/concepts/Surgical_Phase_Recognition.md",
+    "wiki/concepts/Automated_Performance_Metrics.md",
+    "wiki/concepts/AI_in_IBD_Surgery.md",
+    "Clippings/Results of the Ninth Scientific Workshop of the European Crohn’s and Colitis Organisation (ECCO) artificial intelligence in IBD surgery—opportunities and limitations.md",
+    "raw/09-archive/Dietary Interventions and Oral Nutritional Supplementation in Inflammatory Bowel Disease Current Evidence and Future Directions.md",
+    "wiki/研究方案（初稿）.md",
     "wiki/sources/摘要-microbiome-directed-therapy-ibd.md",
-    "wiki/concepts/Microbiome_Host_Interactions.md",
-    "wiki/concepts/Food_Microbiota_Associations.md",
-    "raw/02-papers/Influence of biological sex in IBD.pdf",
-    "raw/02-papers/Prioritizing inflammatory bowel disease.pdf",
-    "raw/02-papers/The 3 Ps of IBD today — prevention, pre-diagnosis and participation.pdf",
-    "wiki/sources/摘要-dietary-guidelines-gi-disorders.md",
-    "wiki/菌群干预证据阶梯.md",
-    "my profile.md",
-    "raw/02-papers/Biologic agents for IBD come of age as host–microbe interactions emerge.pdf",
-    "raw/02-papers/Diet and Microbiome-Directed Therapy 2.0 for IBD.pdf",
-    "raw/02-papers/Gut microbiome in metabolic dysfunctionassociated steatotic liver disease.pdf",
-    "raw/02-papers/Microbiota-based biomarkers and therapeutics for cancer management.pdf",
-    "raw/02-papers/Goolge-Prompt-Engineering-whitepaper.pdf",
-    "assets/hq720.jpg",
+    "wiki/concepts/Oral_Nutritional_Supplementation.md",
+    "wiki/concepts/Specific_Carbohydrate_Diet.md",
+    "wiki/研究方案-知识库升级改进说明.md",
+    "wiki/concepts/Mediterranean_Diet.md",
+    "wiki/concepts/Low-FODMAP_Diet.md",
+    "Clippings/Dietary Interventions and Oral Nutritional Supplementation in Inflammatory Bowel Disease Current Evidence and Future Directions.md",
+    "wiki/sources/摘要-ibd-dietary-interventions.md",
+    "raw/09-archive/Perioperative Dietary Therapy in Inflammatory Bowel Disease.md",
+    "Clippings/Perioperative Dietary Therapy in Inflammatory Bowel Disease.md",
+    "wiki/concepts/Enteral_Nutrition.md",
+    "assets/template",
+    "raw/02-papers/术后管理 nature.rtf",
+    "Clippings/wiki/entities",
+    "Clippings/wiki/sources",
+    "Clippings/wiki",
+    "raw/09-archive/2026-05",
+    "raw/02-papers/Multi-omics–based machine learning model predicts response and guides treatment in Crohn disease- a case study in nutritional therapy.pdf",
+    "raw/09-archive/Clippings",
+    "raw/02-papers/European Crohn’s and Colitis Organisation consensus on dietary management of inflammatory bowel disease.pdf",
+    "raw/02-papers/Identification and validation of a blood- based diagnostic lipidomic signature of pediatric inflammatory bowel disease.pdf",
     "assets/Karpathy LLM Wiki.png",
-    "raw/02-papers/5C Prompt Contracts .pdf",
-    "raw/02-papers/Mechanisms of chronic abdominal pain in inflammatory bowel disease.pdf"
+    "raw/02-papers/Pasted image 20260504011800.png",
+    "raw/02-papers/Pasted image 20260430143256.png",
+    "raw/02-papers/Fig5_Comprehensive_Panel.png",
+    "raw/02-papers/Fig1_Age_PK_Overview.png",
+    "raw/02-papers/Fig2_RCS_Age_PK.png",
+    "raw/02-papers/Fig3_Age_Outcomes.png",
+    "raw/02-papers/Pasted image 20260430165933.png",
+    "raw/02-papers/Pasted image 20260430143502.png",
+    "raw/02-papers/Pasted image 20260430143314.png"
   ]
 }

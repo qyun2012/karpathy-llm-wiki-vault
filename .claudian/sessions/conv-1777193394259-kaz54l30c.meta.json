@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777193394259-kaz54l30c",
+  "providerId": "claude",
+  "title": "Analyze ultra-processed foods and IBD therapy",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777193394260,
+  "updatedAt": 1777196450812,
+  "lastResponseAt": 1777194632027,
+  "sessionId": "a78baf09-facf-4f28-9ab4-d551fa34c202",
+  "providerState": {
+    "providerSessionId": "a78baf09-facf-4f28-9ab4-d551fa34c202"
+  },
+  "currentNote": "wiki/The Interplay of Ultra-Processed Foods and Biologic Therapeutic Response in Inflammatory Bowel Disease.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 3570,
+    "cacheReadInputTokens": 101134,
+    "contextWindow": 200000,
+    "contextTokens": 104712,
+    "percentage": 52,
+    "contextWindowIsAuthoritative": true
+  }
+}

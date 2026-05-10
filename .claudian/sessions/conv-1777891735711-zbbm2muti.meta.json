@@ -1,0 +1,14 @@
+{
+  "id": "conv-1777891735711-zbbm2muti",
+  "providerId": "claude",
+  "title": "Analyze IBD precision medicine manuscript",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777891735711,
+  "updatedAt": 1777891812453,
+  "lastResponseAt": 1777891738995,
+  "sessionId": "de675825-bbf3-4008-aef7-99bf0aa82cfe",
+  "providerState": {
+    "providerSessionId": "de675825-bbf3-4008-aef7-99bf0aa82cfe"
+  },
+  "currentNote": "wiki/Nature-Review-IBD-Precision-Medicine-Revised-v2.5.md"
+}

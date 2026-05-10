@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778083630356-6fhzjj5mk",
+  "providerId": "claude",
+  "title": "Ingest research papers into wiki",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778083630356,
+  "updatedAt": 1778085773229,
+  "lastResponseAt": 1778084302504,
+  "sessionId": "c642e3c3-a3ae-40f6-9470-f4ecc7f0bbc4",
+  "providerState": {
+    "providerSessionId": "c642e3c3-a3ae-40f6-9470-f4ecc7f0bbc4"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1022,
+    "cacheReadInputTokens": 109364,
+    "contextWindow": 200000,
+    "contextTokens": 110394,
+    "percentage": 55,
+    "contextWindowIsAuthoritative": true
+  }
+}

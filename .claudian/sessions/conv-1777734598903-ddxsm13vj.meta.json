@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777734598903-ddxsm13vj",
+  "providerId": "claude",
+  "title": "Ingest UC transcriptomics research article",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777734598903,
+  "updatedAt": 1777735269278,
+  "lastResponseAt": 1777734806397,
+  "sessionId": "451eb003-03b0-4e55-8e2d-4526d6f16f8a",
+  "providerState": {
+    "providerSessionId": "451eb003-03b0-4e55-8e2d-4526d6f16f8a"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 508,
+    "cacheReadInputTokens": 141476,
+    "contextWindow": 200000,
+    "contextTokens": 141992,
+    "percentage": 71,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777579826141-xxbo9qzjh",
+  "providerId": "claude",
+  "title": "Ingest IBD Elderly Management Guidelines",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777579826142,
+  "updatedAt": 1777580530341,
+  "lastResponseAt": 1777580413459,
+  "sessionId": "85642709-74ba-4bf2-af0c-dffd8a594c6c",
+  "providerState": {
+    "providerSessionId": "85642709-74ba-4bf2-af0c-dffd8a594c6c"
+  },
+  "currentNote": "README.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 542,
+    "cacheReadInputTokens": 165797,
+    "contextWindow": 200000,
+    "contextTokens": 166347,
+    "percentage": 83,
+    "contextWindowIsAuthoritative": true
+  }
+}

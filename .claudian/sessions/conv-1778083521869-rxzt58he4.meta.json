@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778083521869-rxzt58he4",
+  "providerId": "claude",
+  "title": "Ingest natural science fund proposals",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778083521869,
+  "updatedAt": 1778083604830,
+  "lastResponseAt": 1778083534477,
+  "sessionId": "99c82cd5-9e32-463d-be40-e814ca47202f",
+  "providerState": {
+    "providerSessionId": "99c82cd5-9e32-463d-be40-e814ca47202f"
+  },
+  "currentNote": "raw/02-papers/省自然基金.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 79729,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 79739,
+    "percentage": 40,
+    "contextWindowIsAuthoritative": true
+  }
+}

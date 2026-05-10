@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777497271405-a4q4rlrrd",
+  "providerId": "claude",
+  "title": "Ingest IBD Drug Monitoring Article",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777497271405,
+  "updatedAt": 1777498626772,
+  "lastResponseAt": 1777497587261,
+  "sessionId": "dced0e94-aff2-427f-9b1f-bd5c5996c473",
+  "providerState": {
+    "providerSessionId": "dced0e94-aff2-427f-9b1f-bd5c5996c473"
+  },
+  "currentNote": "wiki/后续建议.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 217,
+    "cacheReadInputTokens": 150353,
+    "contextWindow": 200000,
+    "contextTokens": 150578,
+    "percentage": 75,
+    "contextWindowIsAuthoritative": true
+  }
+}

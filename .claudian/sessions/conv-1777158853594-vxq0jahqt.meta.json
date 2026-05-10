@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777158853594-vxq0jahqt",
+  "providerId": "claude",
+  "title": "分析EMPOWER研究",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777158853595,
+  "updatedAt": 1777159639596,
+  "lastResponseAt": 1777159301951,
+  "sessionId": "0dde96ed-1b57-412b-81c1-e2250005510d",
+  "providerState": {
+    "providerSessionId": "0dde96ed-1b57-412b-81c1-e2250005510d"
+  },
+  "currentNote": "wiki/log.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1160,
+    "cacheReadInputTokens": 120647,
+    "contextWindow": 200000,
+    "contextTokens": 121815,
+    "percentage": 61,
+    "contextWindowIsAuthoritative": true
+  }
+}

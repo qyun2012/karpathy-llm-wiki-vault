@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777222860735-7r39wo5tw",
+  "providerId": "claude",
+  "title": "Evaluate manuscript organization and novelty",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777222860736,
+  "updatedAt": 1777225359864,
+  "lastResponseAt": 1777224441021,
+  "sessionId": "3b11063c-4062-4733-be81-4450bf151386",
+  "providerState": {
+    "providerSessionId": "3b11063c-4062-4733-be81-4450bf151386"
+  },
+  "currentNote": "raw/02-papers/Multi-Omic Precision Medicine in Inflammatory Bowel Disease.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 5149,
+    "cacheReadInputTokens": 126842,
+    "contextWindow": 200000,
+    "contextTokens": 131999,
+    "percentage": 66,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777196766220-g5n9dnrn7",
+  "providerId": "claude",
+  "title": "提取 PK 计算公式",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777196766221,
+  "updatedAt": 1777200767798,
+  "lastResponseAt": 1777198591191,
+  "sessionId": "a14afd25-960c-4bab-9987-3cf036155cee",
+  "providerState": {
+    "providerSessionId": "a14afd25-960c-4bab-9987-3cf036155cee"
+  },
+  "currentNote": "raw/PK.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 892,
+    "cacheReadInputTokens": 129512,
+    "contextWindow": 200000,
+    "contextTokens": 130412,
+    "percentage": 65,
+    "contextWindowIsAuthoritative": true
+  }
+}

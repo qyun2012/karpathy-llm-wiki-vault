@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777580770115-vz8xr8uiv",
+  "providerId": "claude",
+  "title": "Ingest Crohn's Nutrition Review",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777580770115,
+  "updatedAt": 1777582454679,
+  "lastResponseAt": 1777582060045,
+  "sessionId": "5216971b-24d4-4794-ba4f-4bf46b8f3c2f",
+  "providerState": {
+    "providerSessionId": "5216971b-24d4-4794-ba4f-4bf46b8f3c2f"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1899,
+    "cacheReadInputTokens": 117023,
+    "contextWindow": 200000,
+    "contextTokens": 118930,
+    "percentage": 59,
+    "contextWindowIsAuthoritative": true
+  }
+}

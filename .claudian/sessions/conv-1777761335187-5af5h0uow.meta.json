@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777761335187-5af5h0uow",
+  "providerId": "claude",
+  "title": "Ingest multi-omics microbiota research",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777761335187,
+  "updatedAt": 1777761788204,
+  "lastResponseAt": 1777761595263,
+  "sessionId": "2a2cde15-1148-496c-a192-4a90c265287e",
+  "providerState": {
+    "providerSessionId": "2a2cde15-1148-496c-a192-4a90c265287e"
+  },
+  "currentNote": "wiki/entities/UK_Biobank.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 194,
+    "cacheReadInputTokens": 139832,
+    "contextWindow": 200000,
+    "contextTokens": 140034,
+    "percentage": 70,
+    "contextWindowIsAuthoritative": true
+  }
+}

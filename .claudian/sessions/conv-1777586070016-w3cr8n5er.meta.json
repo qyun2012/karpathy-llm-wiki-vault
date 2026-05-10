@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777586070016-w3cr8n5er",
+  "providerId": "claude",
+  "title": "制定中国老年IBD指南调研报告",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777586070016,
+  "updatedAt": 1777586924663,
+  "lastResponseAt": 1777586542643,
+  "sessionId": "35229603-c9c3-4473-90f4-acadc925a4e0",
+  "providerState": {
+    "providerSessionId": "35229603-c9c3-4473-90f4-acadc925a4e0"
+  },
+  "currentNote": "README.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1438,
+    "cacheReadInputTokens": 134176,
+    "contextWindow": 200000,
+    "contextTokens": 135622,
+    "percentage": 68,
+    "contextWindowIsAuthoritative": true
+  }
+}

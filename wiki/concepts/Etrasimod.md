@@ -177,7 +177,7 @@ last_updated: 2026-04-24
 - [[VELSIPITY]] — 商品名与配方
 - [[S1P_Receptor_Modulators]] — 药物类别
 - [[Ulcerative_Colitis]] — 主要适应症
-- [[Crohns_Disease]] — 次要适应症
+- [[Crohn_Disease]] — 次要适应症
 - [[Microbiome_Host_Interactions]] — 底层作用机制
 - [[Xenolipids]] — 潜在的协同作用靶点
 - [[摘要-etrasimod-uc-clinical-research]] — 临床研究规划

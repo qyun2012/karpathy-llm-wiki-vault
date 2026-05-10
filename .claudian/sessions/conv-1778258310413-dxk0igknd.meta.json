@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778258310413-dxk0igknd",
+  "providerId": "claude",
+  "title": "Ingest Crohn disease ML research",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778258310413,
+  "updatedAt": 1778258689114,
+  "lastResponseAt": 1778258425868,
+  "sessionId": "0b36a46e-244b-430d-af37-a60ef7cd16b7",
+  "providerState": {
+    "providerSessionId": "0b36a46e-244b-430d-af37-a60ef7cd16b7"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 671,
+    "cacheReadInputTokens": 103033,
+    "contextWindow": 200000,
+    "contextTokens": 103712,
+    "percentage": 52,
+    "contextWindowIsAuthoritative": true
+  }
+}

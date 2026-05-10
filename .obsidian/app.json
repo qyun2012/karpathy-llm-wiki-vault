@@ -1,5 +1,13 @@
 {
   "newFileLocation": "folder",
   "attachmentFolderPath": "raw/02-papers",
-  "newFileFolderPath": "wiki"
+  "newFileFolderPath": "wiki",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true
 }

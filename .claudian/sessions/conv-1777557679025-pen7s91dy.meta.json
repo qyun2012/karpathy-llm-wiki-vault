@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777557679025-pen7s91dy",
+  "providerId": "claude",
+  "title": "Ingest IBD Management Paper",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777557679025,
+  "updatedAt": 1777559484067,
+  "lastResponseAt": 1777557874831,
+  "sessionId": "750b1b9d-e40b-45dd-86df-2566fb8a5865",
+  "providerState": {
+    "providerSessionId": "750b1b9d-e40b-45dd-86df-2566fb8a5865"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 459,
+    "cacheReadInputTokens": 137955,
+    "contextWindow": 200000,
+    "contextTokens": 138422,
+    "percentage": 69,
+    "contextWindowIsAuthoritative": true
+  }
+}

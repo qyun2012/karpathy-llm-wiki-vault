@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777674895561-38satfqzc",
+  "providerId": "claude",
+  "title": "Draft Novel IBD Precision Medicine Review",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777674895561,
+  "updatedAt": 1777718485994,
+  "lastResponseAt": 1777718465230,
+  "sessionId": "b42f4c3c-3329-49f0-93f7-f7e8d6e495cf",
+  "providerState": {
+    "providerSessionId": "b42f4c3c-3329-49f0-93f7-f7e8d6e495cf"
+  },
+  "currentNote": "wiki/发表策略-Nature-Review-IBD精准医学综述.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 223,
+    "cacheReadInputTokens": 139778,
+    "contextWindow": 200000,
+    "contextTokens": 140009,
+    "percentage": 70,
+    "contextWindowIsAuthoritative": true
+  }
+}

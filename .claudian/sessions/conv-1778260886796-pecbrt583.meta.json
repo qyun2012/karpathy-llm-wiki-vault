@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778260886796-pecbrt583",
+  "providerId": "claude",
+  "title": "Ingest Crohn's Disease Diet Trial Study",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778260886796,
+  "updatedAt": 1778270498372,
+  "lastResponseAt": 1778262946315,
+  "sessionId": "75e484ea-9097-4f99-ac1a-28777b3d723c",
+  "providerState": {
+    "providerSessionId": "75e484ea-9097-4f99-ac1a-28777b3d723c"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1347,
+    "cacheReadInputTokens": 131816,
+    "contextWindow": 200000,
+    "contextTokens": 133171,
+    "percentage": 67,
+    "contextWindowIsAuthoritative": true
+  }
+}

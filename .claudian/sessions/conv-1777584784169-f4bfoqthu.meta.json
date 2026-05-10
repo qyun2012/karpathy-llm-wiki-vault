@@ -1,0 +1,23 @@
+{
+  "id": "conv-1777584784169-f4bfoqthu",
+  "providerId": "claude",
+  "title": "Design Clinical Trial from Evidence Gaps",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777584784169,
+  "updatedAt": 1777585865778,
+  "lastResponseAt": 1777585790179,
+  "sessionId": "ca9afdcf-4343-4384-8c06-b927cd88a3fd",
+  "providerState": {
+    "providerSessionId": "ca9afdcf-4343-4384-8c06-b927cd88a3fd"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 3639,
+    "cacheReadInputTokens": 154793,
+    "contextWindow": 200000,
+    "contextTokens": 158440,
+    "percentage": 79,
+    "contextWindowIsAuthoritative": true
+  }
+}
