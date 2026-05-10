@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Gut microbiota-derived short-chain fatty acids and their role in human health and disease - Nature Reviews Microbiology.md",
+                "file": "Crohn's Postoperative Management.flowchart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gut microbiota-derived short-chain fatty acids and their role in human health and disease - Nature Reviews Microbiology"
+              "title": "Crohn's Postoperative Management.flowchart"
             }
           }
         ]
@@ -196,12 +196,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 520.5,
-    "collapsed": true
+    "width": 520.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,10 +227,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b7b44e1c9717128",
+  "active": "6148faab67525f61",
   "lastOpenFiles": [
-    "Crohn's Postoperative Management.flowchart.md",
     "Clippings/Gut microbiota-derived short-chain fatty acids and their role in human health and disease - Nature Reviews Microbiology.md",
+    "Clippings/09-archive/Gut microbiota-derived short-chain fatty acids and their role in human health and disease - Nature Reviews Microbiology.md",
+    "Clippings/09-archive",
+    "wiki/entities/Faecalibacterium_prausnitzii.md",
+    "wiki/concepts/Colorectal_cancer.md",
+    "wiki/concepts/Gut_microbiota.md",
+    "wiki/concepts/Butyrate.md",
+    "wiki/concepts/Short-chain_fatty_acids.md",
+    "wiki/sources/摘要-scfa-gut-microbiota-2025.md",
+    "Crohn's Postoperative Management.flowchart.md",
     "wiki/IBD精准医学的闭环诊疗系统.md",
     "Clippings/Study Details  NCT02201693  Cyclic Exclusive Enteral Nutrition as Maintenance Therapy for Pediatric Crohn's Disease.md",
     "raw/notes/未命名.md",
@@ -249,13 +256,6 @@
     "wiki/sources/摘要-microbiome-directed-therapy-ibd.md",
     "wiki/concepts/Oral_Nutritional_Supplementation.md",
     "wiki/concepts/Specific_Carbohydrate_Diet.md",
-    "wiki/研究方案-知识库升级改进说明.md",
-    "wiki/concepts/Mediterranean_Diet.md",
-    "wiki/concepts/Low-FODMAP_Diet.md",
-    "Clippings/Dietary Interventions and Oral Nutritional Supplementation in Inflammatory Bowel Disease Current Evidence and Future Directions.md",
-    "wiki/sources/摘要-ibd-dietary-interventions.md",
-    "raw/09-archive/Perioperative Dietary Therapy in Inflammatory Bowel Disease.md",
-    "Clippings/Perioperative Dietary Therapy in Inflammatory Bowel Disease.md",
     "assets/template",
     "raw/02-papers/术后管理 nature.rtf",
     "Clippings/wiki/entities",
@@ -265,7 +265,6 @@
     "raw/02-papers/Multi-omics–based machine learning model predicts response and guides treatment in Crohn disease- a case study in nutritional therapy.pdf",
     "raw/09-archive/Clippings",
     "raw/02-papers/European Crohn’s and Colitis Organisation consensus on dietary management of inflammatory bowel disease.pdf",
-    "raw/02-papers/Identification and validation of a blood- based diagnostic lipidomic signature of pediatric inflammatory bowel disease.pdf",
     "assets/Karpathy LLM Wiki.png",
     "raw/02-papers/Pasted image 20260504011800.png",
     "raw/02-papers/Pasted image 20260430143256.png",

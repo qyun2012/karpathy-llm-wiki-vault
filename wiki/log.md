@@ -1,3 +1,63 @@
+## [2026-05-10] ingest | Nature综述：肠道微生物短链脂肪酸与人类健康
+
+- **源文件**: Clippings/Gut microbiota-derived short-chain fatty acids and their role in human health and disease - Nature Reviews Microbiology.md
+  
+  （Nature Reviews Microbiology, 2025-05-13，DOI: 10.1038/s41579-025-01183-w，作者：Indrani Mukhopadhya、Petra Louis）
+
+- **变更**: 新增 1 个源摘要 + 5 个核心概念页面 + 2 个实体页面 + 更新 index.md 与 log.md
+
+  - **新增源摘要** (1):
+    - [[摘要-scfa-gut-microbiota-2025]] — Nature综述，肠道微生物发酵膳食纤维产生的短链脂肪酸（乙酸、丙酸、丁酸）对人类健康的多方面影响，微生物代谢途径、宿主分子相互作用机制、肠道稳定性维持、免疫调节、多种疾病预防（IBD、CRC、神经疾病等）与治疗策略
+
+  - **新增概念页面** (5):
+    - [[Short-chain fatty acids (SCFAs)]] — SCFA定义、微生物来源、肠腔浓度、能量供应、受体介导信号、表观遗传调节、肠道与全身效应
+    - [[Butyrate]] — 丁酸微生物产生、结肠上皮能量代谢、HDAC抑制机制、DNA甲基化调节、肠道屏障功能、先天和适应性免疫、临床应用与递送策略
+    - [[Gut microbiota]] — 肠道微生物生态特征、代谢多样性、SCFA生产、微生物相互作用、与健康和疾病的关联、影响因素、研究方法、个性化医学前景
+    - [[Colorectal cancer]] — 膳食纤维与CRC风险的流行病学证据、丁酸抗肿瘤机制、丁酸悖论、HDAC抑制与癌细胞凋亡、免疫疗法协同、预后基因特征、预防策略
+    - [[Inflammatory bowel disease]] — IBD微生物失调、SCFA缺陷、双重打击假说、SCFA治疗（灌肠、口服、微囊化）、作为疾病标志物、临床挑战与联合治疗策略
+
+  - **新增实体页面** (2):
+    - [[Faecalibacterium prausnitzii]] — 关键丁酸产生菌，健康人群中的主要指标菌种，IBD患者中的标志性丧失，益生菌潜力与应用挑战，增加丰度的策略
+    - [[Petra Louis]] — 苏格兰政府资助的肠道微生物代谢专家，膳食纤维复杂度与微生物功能研究领导者
+
+  - **更新现有页面** (2):
+    - [[index.md]] — 总文件数 322→328，核心概念 131→137，实体 56→60，源摘要 69→70，新增主题"肠道微生物代谢与SCFA生物学"
+    - [[Indrani Mukhopadhya]] — 新增为综述主要作者
+
+- **核心学术贡献**:
+  - SCFA微生物代谢全景：从基因组学到代谢产物，不同菌属的发酵通路与产物特异性
+  - 宿主分子机制的完整整合：能量供应（三羧酸循环）+ 受体信号（GPCR）+ 表观遗传（HDAC/DNA甲基化）+ 免疫调节（Treg/B细胞）
+  - 丁酸悖论的临床解析：为何SCFA缺陷在IBD中有害但丁酸在癌细胞中是强抑制剂
+  - 肠外系统效应：SCFA通过血脑屏障参与神经疾病、通过代谢途径影响心血管和代谢健康
+  - 个性化SCFA治疗：从简单补充到多元递送系统、微生物干预、膳食策略的多维度整合
+
+- **关键临床应用**:
+  - IBD: 丁酸缺陷理论→灌肠/口服/微囊化制剂的三层递送策略，需与传统免疫抑制剂联合
+  - CRC: 膳食纤维的反向循环预防→SCFA产生减少对肿瘤易感性的影响→丁酸基辅助疗法的可能性
+  - 代谢病: SCFA与能量代谢、饱腹感的双向作用，胰岛素抵抗患者的SCFA处理障碍
+  - 神经病: SCFA跨血脑屏障→阿尔兹海默病、帕金森病、多发性硬化症的潜在靶点
+
+- **知识融合方向**:
+  - 微生物代谢与宿主表型的连接：从"微生物群组成"到"代谢功能能力"到"SCFA浓度"到"宿主效应"的完整链条
+  - 个体化SCFA补充的精准医学框架：根据微生物群组成与宿主遗传学预测最优SCFA配方与递送方式
+  - SCFA与其他膳食组分的协同：SCFA + 益生元 + 膳食纤维 + 益生菌的多元整合策略
+  - 跨膜愈合的新靶点：SCFA驱动的屏障修复与免疫稳定作为IBD深度缓解的生物学基础
+
+- **关联网络扩展**:
+  - [[Short-chain fatty acids (SCFAs)]] ← [[摘要-scfa-gut-microbiota-2025]]（源摘要）
+  - [[Butyrate]] ← [[Faecalibacterium prausnitzii]]（主要产生菌）← [[Gut microbiota]]（生态位）
+  - [[Inflammatory bowel disease]] ← [[Butyrate]]（治疗靶点）← [[SCFA缺陷]]（病理机制）
+  - [[Colorectal cancer]] ← [[Dietary fiber]] ← [[Butyrate]]（预防链条）
+  - [[Petra Louis]], [[Indrani Mukhopadhya]] → 新增作者节点，连接到[[摘要-scfa-gut-microbiota-2025]]
+
+- **索引更新** ([[index.md]]):
+  - Concepts 部分新增 5 个页面（SCFA、Butyrate、Gut microbiota、Colorectal cancer、IBD）
+  - Entities 部分新增 2 个细菌 + 2 个人物节点
+  - Sources 部分新增 1 个综述摘要
+  - 知识库统计更新：总文件 322→328，核心概念 131→137，实体 56→60，源摘要 69→70
+
+---
+
 ## [2026-05-10] ingest | ECCO第九届科学研讨会：IBD外科人工智能综述
 
 - **源文件**: Clippings/Results of the Ninth Scientific Workshop of the European Crohn's and Colitis Organisation (ECCO) artificial intelligence in IBD surgery—opportunities and limitations.md（Journal of Crohn's and Colitis, 2025，DOI: 10.1093/ecco-jcc/jjaf135，作者：Alaa El-Hussuna等22位）
