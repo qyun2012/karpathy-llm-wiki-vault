@@ -1,3 +1,59 @@
+## [2026-05-10] ingest | IBD屏障成像与分子标志物多模式整合研究
+
+- **源文件**: Clippings/Automated real-time imaging of intestinal barrier integrity and molecular profiling for early outcome prediction in inflammatory bowel disease endo-histo-barrier-omics study.md
+  
+  （J Crohn's Colitis, 2025 Nov 19, 19(11): jjaf200; DOI: 10.1093/ecco-jcc/jjaf200; PMID: 41259666）
+
+- **变更**: 新增 1 个源摘要 + 1 个核心概念 + 4 个实体页面 + 更新 index.md 与 log.md
+
+  - **新增源摘要** (1):
+    - [[摘要-endo-histo-barrier-omics-ibd]] — 多中心前瞻性研究，高分辨内镜（ECS+pCLE）+ AI自动分析 + 多重免疫荧光联合评估IBD屏障愈合的多模式诊断框架，103例患者（38 UC/54 CD/11 HC），屏障愈合患者预后显著优于内镜缓解（13% vs 56%不良结局）
+
+  - **新增核心概念** (1):
+    - [[Barrier_Healing]] — 屏障完全恢复的新兴治疗靶点，上皮+血管+免疫三层修复，定义、临床价值、时间学、诱导机制、与传统缓解指标的对比、评估方法、临床应用前景
+
+  - **新增实体页面** (4):
+    - [[Claudin-2]] — UC屏障蛋白标志物，与隐窝异常/杯状细胞消耗相关（ρ=0.49-0.5），基线水平>127.6预示不良结局
+    - [[PV-1]] — CD血管屏障蛋白，与血流异常/血管结构破坏相关（ρ=0.40-0.41），基线水平>491预示不良结局
+    - [[Endocytoscopy]] — 超高分辨率内镜成像（200-400倍），ResNet50 AI自动分析屏障特征，克服观察者依赖的客观量化评估
+    - [[pCLE]] — 共焦激光内镜显微术，动态评估血流与屏障功能性渗漏（荧光素泄漏），CD脉管炎的首选诊断技术
+    - [[Endo-Histo-Barrier-Omics_Group]] — Cork IBD研究团队，整合高级成像+多重免疫荧光+基因表达+AI分析
+
+  - **更新现有页面** (2):
+    - [[index.md]] — 新增1个概念、4个实体、1个源摘要，主题扩展为"...屏障愈合诊断与人工智能应用"
+    - [[Intestinal_Barrier]] — 在关联中引用新增的屏障蛋白实体
+
+- **核心科学贡献**:
+  - **屏障愈合的新范式**：从"内镜缓解"升级为"屏障愈合"作为IBD治疗成功的新标准
+  - **疾病异质性的分子揭示**：UC中Claudin-2↑（上皮破坏）vs CD中PV-1↑（血管破坏），反映IBD的病理差异
+  - **多模式诊断的整合**：高分辨成像（结构）+ 分子标志物（功能）+ AI自动分析（客观）的完整评估系统
+  - **预后分层的4倍差异**：屏障愈合vs非愈合患者的不良结局率（13% vs 56%），提示屏障修复的重大临床价值
+  - **AI在内镜诊断中的赋能**：ResNet50+SAM自动识别隐窝、血管、杯状细胞，定量参数提取，支持基层推广
+
+- **关键临床应用**:
+  - **治疗目标重新定义**：从内镜缓解→屏障愈合，指导治疗强度和疗程调整
+  - **个体化分层**：基线Claudin-2/PV-1水平预测初始治疗应答，早期标志物反应预测长期疗效
+  - **预后预测**：屏障蛋白标准化+内镜缓解的患者预后最佳，缺乏屏障愈合的患者需升级治疗
+  - **新药开发靶点**：直接增强屏障蛋白表达、促进微生物恢复、诱导血管修复的屏障修复药物
+
+- **技术创新亮点**:
+  - **双成像融合**：ECS（200倍上皮细胞细节）+ pCLE（血流动力学+功能渗漏），上皮和血管屏障的完整评估
+  - **AI自动化**：克服高分辨内镜的学习曲线陡、观察者依赖强的局限，定量评分替代主观分类
+  - **荧光示踪**：荧光素钠的荧光泄漏直接反映屏障功能丧失，比形态学改变更灵敏
+
+- **知识融合方向**:
+  - 屏障蛋白与微生物代谢的协同：Claudin-2/PV-1升高的上游机制（TNF-α、微生物信号、SCFA缺陷）的深入探索
+  - 屏障愈合时间学与治疗策略的关联：不同生物制剂/营养干预的屏障修复速率曲线比较
+  - AI诊断系统在多中心临床实践中的推广：云端AI平台支持基层医疗的标准化屏障评估
+  - 屏障标志物与其他生物标志物的整合：Claudin-2/PV-1 + CRP/粪钙蛋白 + 微生物群落 + 代谢组的多维诊断框架
+
+- **关联网络扩展**:
+  - [[Barrier_Healing]] ← [[Claudin-2]]（UC）/ [[PV-1]]（CD）（蛋白标志物）
+  - [[Endocytoscopy]] & [[pCLE]] ← [[Endo-Histo-Barrier-Omics_Group]]（应用研究）← [[摘要-endo-histo-barrier-omics-ibd]]（实现）
+  - [[Inflammatory_Bowel_Disease]] ← [[Barrier_Healing]]（治疗靶点升级）← [[Precision_Medicine_IBD]]（精准分层）
+
+---
+
 ## [2026-05-10] ingest | Nature综述：肠道微生物短链脂肪酸与人类健康
 
 - **源文件**: Clippings/Gut microbiota-derived short-chain fatty acids and their role in human health and disease - Nature Reviews Microbiology.md

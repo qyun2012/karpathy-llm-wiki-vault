@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778448071367-1doqfvvc1",
+  "providerId": "claude",
+  "title": "Ingest IBD imaging and profiling study",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778448071367,
+  "updatedAt": 1778449048902,
+  "lastResponseAt": 1778448393437,
+  "sessionId": "0263b49f-a3ca-4364-b075-f52b2753c50a",
+  "providerState": {
+    "providerSessionId": "0263b49f-a3ca-4364-b075-f52b2753c50a"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 280,
+    "cacheReadInputTokens": 154647,
+    "contextWindow": 200000,
+    "contextTokens": 154935,
+    "percentage": 77,
+    "contextWindowIsAuthoritative": true
+  }
+}
