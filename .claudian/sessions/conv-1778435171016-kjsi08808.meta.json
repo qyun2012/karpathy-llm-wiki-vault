@@ -4,21 +4,20 @@
   "title": "Ingest gut microbiota SCFA research",
   "titleGenerationStatus": "success",
   "createdAt": 1778435171016,
-  "updatedAt": 1778435413471,
-  "lastResponseAt": 1778435413471,
+  "updatedAt": 1778443836270,
+  "lastResponseAt": 1778443815534,
   "sessionId": "75f582ab-c779-427b-865e-a59507a399cd",
   "providerState": {
     "providerSessionId": "75f582ab-c779-427b-865e-a59507a399cd"
   },
-  "currentNote": "Clippings/Gut microbiota-derived short-chain fatty acids and their role in human health and disease - Nature Reviews Microbiology.md",
   "usage": {
     "model": "haiku",
     "inputTokens": 8,
-    "cacheCreationInputTokens": 630,
-    "cacheReadInputTokens": 138840,
+    "cacheCreationInputTokens": 2490,
+    "cacheReadInputTokens": 123208,
     "contextWindow": 200000,
-    "contextTokens": 139478,
-    "percentage": 70,
+    "contextTokens": 125706,
+    "percentage": 63,
     "contextWindowIsAuthoritative": true
   }
 }

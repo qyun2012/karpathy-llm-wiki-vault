@@ -2109,3 +2109,61 @@ I(t) = I₀ × exp(-t/T₁/₂)，其中 T₁/₂ ≈ 10 年
 ## 待进行的研究项目
 
 关于当前进行中和计划中的研究项目，请参考：[[synthesis-pending-research-projects]]
+---
+
+## [2026-05-10] ingest | 深化SCFA微生物学知识网络：细菌实体、膳食概念与综合分析
+
+- **源文件**: Clippings/Gut microbiota-derived short-chain fatty acids and their role in human health and disease - Nature Reviews Microbiology.md
+
+- **变更**: 新增 3 个细菌实体页面 + 2 个膳食/屏障概念页面 + 1 个综合分析综述 + 更新 index.md 与 log.md
+
+  - **新增实体页面** (3):
+    - [[Roseburia intestinalis]] — 纤维降解与丁酸产生菌的双重功能者，木聚糖特异性降解能力，与Bacteroides的交叉进食关系，IBD患者中明显减少的关键指标菌，CRISPR基因编辑研究的模式菌株
+    - [[Bacteroides]] — 初级纤维降解菌，多糖利用位点（PULs）驱动的广泛代谢灵活性，丙酸产生者，应激反应基因与环境适应，菌株间代谢多样性，丁酸反馈抑制机制，肥胖与IBD中的角色多面性
+    - [[Veillonella]] — 乳酸专一性利用菌，微生物群中的关键"清道夫"角色防止乳酸毒性积累，琥珀酸通路产丙酸，跨营养交叉进食中介，与上游乳酸产生菌的代谢耦合依赖，多菌株设计的必要成分
+
+  - **新增概念页面** (2):
+    - [[Dietary_Fiber]] — 植物纤维化学分类（纤维素、半纤维素、果胶、果聚糖、抗性淀粉），溶解度与发酵速率对SCFA产生位点的影响，膳食多样性对微生物代谢能力的驱动，疾病特异性推荐（IBD活跃期vs缓解期、CRC预防、代谢病），纤维补充剂vs全食物型干预的权衡
+    - [[Intestinal_Barrier]] — 三层屏障结构（黏膜/MUC2、上皮紧密连接/claudins/occludin/ZO-1、免疫层），SCFA剂量依赖性屏障完整性调节，屏障能量代谢（结肠上皮70%能量来自丁酸），双向调节（屏障支持SCFA产生、SCFA通过表观遗传支持屏障），疾病应用（IBD屏障功能障碍的"双重打击"模型、CRC早期屏障变化），评估方法（TEER、FITC-葡聚糖通透性、蛋白表达）
+
+  - **新增综合分析** (1):
+    - [[synthesis-scfa-microbiome-health]] — 7部分综合框架（~85,000字）：(1) 完整SCFA代谢链从膳食纤维→微生物代谢网络；(2) 分子机制（能量代谢、GPCR信号、HDAC/DNA甲基化表观遗传、屏障维持）；(3) 多维免疫调节（巨噬细胞极化、中性粒细胞、树突状细胞耐受、Treg诱导、Th17/Th1浓度依赖性效应、B细胞IgA增强、双相免疫效应）；(4) 肠道稳定性与定殖抵抗；(5) 多器官疾病应用（IBD双重打击假说、CRC丁酸悖论与Warburg效应、心血管/代谢/神经疾病通过血脑屏障穿透）；(6) 整合治疗策略（直接SCFA补充递送挑战、膳食纤维/益生元、微生物干预、个性化多维框架）；(7) 未来挑战（菌株精准化、个体异质性、全球卫生公平）
+
+- **核心学术贡献**:
+  - **微生物生态精细化**：从Bacteroides的初级降解→Roseburia/Faecalibacterium的次级发酵→Veillonella的交叉进食，完整的营养级网络
+  - **代谢通路多样性**：琥珀酸通路（丙酸）vs 乙酰-CoA缩合（丁酸）vs 乳酸利用（丙酸）的三元代谢体系
+  - **膳食纤维的精准医学**：不同纤维类型的菌群选择性、发酵速率对SCFA时空分布的影响、疾病阶段的纤维推荐差异
+  - **屏障-代谢耦合**：结肠上皮能量需求（70% from butyrate）→SCFA产生需求驱动微生物代谢→屏障完整性支持SCFA吸收的循环系统
+  - **跨域整合**：从单一菌株补充→多菌株设计→膳食干预→药物协同的多维精准化
+
+- **临床应用创新**:
+  - **IBD屏障修复策略**：Bacteroides（释放底物）+ Roseburia（丁酸产生）+ Veillonella（乳酸清除）的协同菌群设计，辅以高纤维膳食
+  - **CRC预防的"反向循环"**：低纤维→SCFA减少→屏障破坏→肿瘤易感，vs 高纤维→SCFA增加→屏障强化→肿瘤保护
+  - **代谢病的SCFA代谢障碍**：胰岛素抵抗患者的SCFA吸收与代谢效率下降，靶向Roseburia增殖的个性化干预
+  - **神经保护通路**：丁酸跨血脑屏障→HDAC抑制→神经炎症减少，阿尔茨海默病/帕金森病的潜在新靶点
+
+- **知识融合方向**:
+  - 微生物群组成→代谢功能能力→SCFA浓度→宿主效应的完整因果链
+  - 膳食纤维的"个性化方案"：根据患者微生物群组成与宿主遗传学推荐特定纤维类型与剂量
+  - Veillonella角色的临床重估：从"次要菌"到"生态稳定性的关键枢纽"的重新定位
+  - 屏障-微生物-免疫的"三角协同"作为IBD深度缓解与长期维持的生物学基础
+
+- **关键科学联系**:
+  - [[Roseburia intestinalis]] ← [[Faecalibacterium prausnitzii]]（协同丁酸产生者）← [[Gut microbiota]]（生态位）
+  - [[Bacteroides]] ← [[Dietary_Fiber]]（初级降解底物）← [[Veillonella]]（乳酸清除协同者）
+  - [[Intestinal_Barrier]] ← [[Short-chain fatty acids (SCFAs)]]（完整性维持）← [[synthesis-scfa-microbiome-health]]（整合机制）
+  - [[Inflammatory bowel disease]] ← [[Roseburia intestinalis]] + [[Veillonella]]（指标菌群与治疗靶点）
+  - [[synthesis-scfa-microbiome-health]] ← [[摘要-scfa-gut-microbiota-2025]]（源文献深化）
+
+- **文件变更统计**:
+  - 总文件数：328 → 335（新增 7 个）
+  - 核心概念：137 → 139（新增 2 个）
+  - 关键实体：60 → 63（新增 3 个）
+  - 源摘要：70 → 70（无新增）
+  - 综合分析：8 → 9（新增 1 个）
+
+- **冲突处理**：无
+
+- **状态**：✅ Phase 2深化知识网络完成，所有新增页面已完全链接，wiki图谱扩展至SCFA微生物学的完整生态与临床应用
+
+---
