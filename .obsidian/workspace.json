@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crohn's Postoperative Management.flowchart.md",
+                "file": "Clippings/Automated real-time imaging of intestinal barrier integrity and molecular profiling for early outcome prediction in inflammatory bowel disease endo-histo-barrier-omics study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crohn's Postoperative Management.flowchart"
+              "title": "Automated real-time imaging of intestinal barrier integrity and molecular profiling for early outcome prediction in inflammatory bowel disease endo-histo-barrier-omics study"
             }
           }
         ]
@@ -227,8 +227,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5d77247f1b40f61",
+  "active": "7b7b44e1c9717128",
   "lastOpenFiles": [
+    "Crohn's Postoperative Management.flowchart.md",
+    "Clippings/Automated real-time imaging of intestinal barrier integrity and molecular profiling for early outcome prediction in inflammatory bowel disease endo-histo-barrier-omics study.md",
     "wiki/syntheses/synthesis-scfa-microbiome-health.md",
     "wiki/entities/Veillonella.md",
     "wiki/entities/Bacteroides.md",
@@ -242,7 +244,6 @@
     "wiki/concepts/Butyrate.md",
     "wiki/concepts/Short-chain_fatty_acids.md",
     "wiki/sources/摘要-scfa-gut-microbiota-2025.md",
-    "Crohn's Postoperative Management.flowchart.md",
     "wiki/IBD精准医学的闭环诊疗系统.md",
     "Clippings/Study Details  NCT02201693  Cyclic Exclusive Enteral Nutrition as Maintenance Therapy for Pediatric Crohn's Disease.md",
     "raw/notes/未命名.md",
@@ -255,7 +256,6 @@
     "wiki/concepts/Automated_Performance_Metrics.md",
     "wiki/concepts/AI_in_IBD_Surgery.md",
     "Clippings/Results of the Ninth Scientific Workshop of the European Crohn’s and Colitis Organisation (ECCO) artificial intelligence in IBD surgery—opportunities and limitations.md",
-    "raw/09-archive/Dietary Interventions and Oral Nutritional Supplementation in Inflammatory Bowel Disease Current Evidence and Future Directions.md",
     "assets/template",
     "raw/02-papers/术后管理 nature.rtf",
     "Clippings/wiki/entities",
