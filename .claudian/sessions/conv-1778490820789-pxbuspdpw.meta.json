@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778490820789-pxbuspdpw",
+  "providerId": "claude",
+  "title": "Ingest enteral nutrition immunology",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778490820789,
+  "updatedAt": 1778491219651,
+  "lastResponseAt": 1778491063278,
+  "sessionId": "4df35747-c649-424f-92cc-4cde37a6cdaf",
+  "providerState": {
+    "providerSessionId": "4df35747-c649-424f-92cc-4cde37a6cdaf"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1225,
+    "cacheReadInputTokens": 147238,
+    "contextWindow": 200000,
+    "contextTokens": 148471,
+    "percentage": 74,
+    "contextWindowIsAuthoritative": true
+  }
+}

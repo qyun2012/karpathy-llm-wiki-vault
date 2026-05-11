@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778492028744-x1038nkj5",
+  "providerId": "claude",
+  "title": "Ingest postoperative nutrition research",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778492028744,
+  "updatedAt": 1778492375205,
+  "lastResponseAt": 1778492240432,
+  "sessionId": "8952bbb6-9dae-4b96-bb5c-612aef63c459",
+  "providerState": {
+    "providerSessionId": "8952bbb6-9dae-4b96-bb5c-612aef63c459"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 636,
+    "cacheReadInputTokens": 146056,
+    "contextWindow": 200000,
+    "contextTokens": 146700,
+    "percentage": 73,
+    "contextWindowIsAuthoritative": true
+  }
+}

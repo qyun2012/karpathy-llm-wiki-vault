@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778491411088-4fnn1cu10",
+  "providerId": "claude",
+  "title": "Ingest IBD Nutritional Research Registry",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778491411088,
+  "updatedAt": 1778492015342,
+  "lastResponseAt": 1778491705750,
+  "sessionId": "6986092d-f656-4fed-9c86-07062c48df7f",
+  "providerState": {
+    "providerSessionId": "6986092d-f656-4fed-9c86-07062c48df7f"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 909,
+    "cacheReadInputTokens": 146894,
+    "contextWindow": 200000,
+    "contextTokens": 147811,
+    "percentage": 74,
+    "contextWindowIsAuthoritative": true
+  }
+}
