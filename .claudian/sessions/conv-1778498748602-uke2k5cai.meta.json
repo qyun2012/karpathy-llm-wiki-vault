@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778498748602-uke2k5cai",
+  "providerId": "claude",
+  "title": "Ingest nutrition research summary into wiki",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778498748602,
+  "updatedAt": 1778498870089,
+  "lastResponseAt": 1778498870089,
+  "sessionId": "c8064bef-da4e-4324-8fc3-e7e857f33c9a",
+  "providerState": {
+    "providerSessionId": "c8064bef-da4e-4324-8fc3-e7e857f33c9a"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 332,
+    "cacheReadInputTokens": 122172,
+    "contextWindow": 200000,
+    "contextTokens": 122512,
+    "percentage": 61,
+    "contextWindowIsAuthoritative": true
+  }
+}

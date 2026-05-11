@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778498666820-tqrsn27zd",
+  "providerId": "claude",
+  "title": "Ingest ECCO Crohn's disease recurrence prevention",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778498666820,
+  "updatedAt": 1778498721546,
+  "lastResponseAt": 1778498703570,
+  "sessionId": "1e70faf8-2641-41b9-a141-ea33c89b331e",
+  "providerState": {
+    "providerSessionId": "1e70faf8-2641-41b9-a141-ea33c89b331e"
+  },
+  "currentNote": "wiki/concepts/术后营养管理.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 2904,
+    "cacheReadInputTokens": 88751,
+    "contextWindow": 200000,
+    "contextTokens": 91663,
+    "percentage": 46,
+    "contextWindowIsAuthoritative": true
+  }
+}
