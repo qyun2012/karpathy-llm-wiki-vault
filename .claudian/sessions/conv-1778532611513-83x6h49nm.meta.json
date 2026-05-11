@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778532611513-83x6h49nm",
+  "providerId": "claude",
+  "title": "Ingest IBD comorbidity safety research",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778532611514,
+  "updatedAt": 1778533071948,
+  "lastResponseAt": 1778532836690,
+  "sessionId": "6a5ec511-c861-4f41-bfd3-156a7551a0e2",
+  "providerState": {
+    "providerSessionId": "6a5ec511-c861-4f41-bfd3-156a7551a0e2"
+  },
+  "currentNote": "Clippings/Comorbidity, not patient age, is associated with impaired safety outcomes in vedolizumab‐ and ustekinumab‐treated patients with inflammatory bowel disease—a prospective multicentre cohort study.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 370,
+    "cacheReadInputTokens": 139203,
+    "contextWindow": 200000,
+    "contextTokens": 139581,
+    "percentage": 70,
+    "contextWindowIsAuthoritative": true
+  }
+}

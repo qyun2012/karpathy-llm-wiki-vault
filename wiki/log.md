@@ -1,3 +1,181 @@
+## [2026-05-11] create | 表观遗传年龄与精准医学综合框架 + DNA甲基化时钟概念页
+
+- **新增核心内容** (2个资源):
+
+  - **大型综合文档** (1):
+    - [[表观遗传年龄与精准医学-DNA甲基化患者分层]] — 847行八部分综合框架
+      * 第一部分：DNA甲基化与表观遗传年龄的生物学基础（甲基化机制、衰老中的重编程、标志物分类）
+      * 第二部分：EAA与临床预后的关联证据（全因死亡率、心血管疾病、肿瘤、IBD）
+      * 第三部分：整合模型 - 功能年龄 + 表观遗传年龄双层评估框架，临床应用矩阵与决策树
+      * 第四部分：生活方式干预与EAA的可逆性，干预效果监测与反馈循环
+      * 第五部分：精准医学决策中的表观遗传生物标志物指导（生物制剂选择、老年肿瘤治疗）
+      * 第六部分：临床实施与质量保证（标准化流程、报告格式、MDT角色定位）
+      * 第七部分：知识冲突与证据等级声明、伦理考虑
+      * 第八部分：总结与临床路线图
+
+  - **概念补充** (1):
+    - [[DNA_Methylation_Clocks]] — DNA甲基化时钟深度解析（301行）
+      * 定义与原理：甲基化与衰老的生物学关联、机器学习构建
+      * 主要时钟对比：Horvath(353位点多组织)、Hannum(71位点血液特异)、PhenoAge(表型生物学年龄)、GrimAge(死亡加速时钟)
+      * EAA临床解释：加速分类、与健康结局的关联证据（死亡率、心血管、肿瘤、认知衰退）
+      * 应用场景：老年医学评估、肿瘤患者化疗决策、IBD生物制剂选择
+      * 测定方法与标准化：采样、检测技术对比、数据处理质控
+      * 时钟选择指南与局限性讨论
+
+- **知识库统计更新** (本次后):
+  - 总文件数：357 → **359**（+2）
+  - 核心概念：149 → **150**（+1，DNA_Methylation_Clocks）
+  - 综合分析：9 → **10**（+1，表观遗传年龄综合框架）
+
+- **关键创新点**:
+  - **跨学科整合**：将分子生物学（DNA甲基化时钟）与临床评估（GA框架）完全整合
+  - **患者分层完整性**：从生物学衰老速度、当前功能状态、预期寿命三维评估，形成"过去-现在-未来"完整风险视图
+  - **IBD特异应用**：针对老年IBD患者的生物制剂选择、感染风险预测、干预监测的精准框架
+  - **可逆性证据**：系统阐述EAA的可修改性，强调生活方式干预在改善衰老轨迹中的作用
+
+- **与既有知识的链接**:
+  - 补充 [[Physiological_Age]] 的分子层细节
+  - 扩展 [[老年IBD患者临床管理指南]] 的生物标志物指导
+  - 完善 [[Geriatric_Assessment]] 的动态监测方法
+
+---
+
+## [2026-05-11] expand | 老年医学评估补充资源与时间年龄批判性分析
+
+- **新增内容** (2 个资源):
+  
+  - **概念补充** (1):
+    - [[Chronological_Age]] — 时间年龄的临床局限性深度分析：为什么同龄患者生理差异达30岁、时间年龄驱动决策违反医学伦理、案例对比（肿瘤患者+IBD患者）、年龄歧视的医学表现与证据、从年龄驱动到功能驱动的范式转变
+  
+  - **临床工具** (1):
+    - [[Geriatric_Assessment_Toolkit]] — 诊室快速参考工具集（15-25分钟完整评估）：
+      * 8大工具的操作指南与评分标准（ADL、IADL、TUG、SPPB、Mini-Cog、MMSE、MNA、GDS、CCI）
+      * 每个工具的临床意义与异常阈值
+      * 完整评估流程（快速版 vs 详细版）
+      * 患者分类与治疗强度矩阵（健康/脆弱/衰弱）
+      * 可打印的诊室工作表和决策流程图
+
+- **知识库统计更新** (本次后):
+  - 总文件数：354 → **357**（+3）
+  - 核心概念：148 → **149**（+1，Chronological_Age）
+  - 关键实体：65 → **66**（+1，Geriatric_Assessment_Toolkit）
+  - **新增应用工具库**：补充临床实践的标准化工作流
+
+- **关键补充价值**:
+  - **理论深化**：Chronological_Age 页面揭示年龄驱动决策的伦理问题与科学局限
+  - **临床实用**：Toolkit 提供了可立即应用的工具集，降低实施 GA 的门槛
+  - **跨领域应用**：既适用于肿瘤患者，也直接可用于 IBD、心脏病、神经学患者的老年管理
+
+---
+
+## [2026-05-11] ingest | 老年肿瘤学与功能年龄评估 (Soto-Perez-de-Celis et al., The Lancet Oncology)
+
+- **源文件**: Clippings/Functional versus chronological age geriatric assessments to guide decision making in older patients with cancer.md
+  
+  The Lancet Oncology，来自 Enrique Soto-Perez-de-Celis、Daneng Li、Yuan Yuan、Yat Ming Lau、Arti Hurria 等
+  
+  第二篇老年肿瘤学系列综述：老年癌症患者治疗决策应基于功能/生理年龄而非时间年龄，系统介绍老年医学评估工具与衰老生物标志物
+
+- **变更**: 新增 5 个页面 + 更新 1 个索引页 + 更新 log.md
+
+  - **新增源摘要** (1):
+    - [[摘要-functional-age-geriatric-oncology]] — 核心发现：时间年龄是贫乏的预测因子；功能年龄（ADL/IADL/身体活动）、生理年龄（IL-6、P16、DNA甲基化）、共病症指数更准确预测治疗耐受性与预后
+  
+  - **新增概念页面** (4):
+    - [[Geriatric_Oncology]] — 老年肿瘤学专科框架：GA六大评估领域、风险分层（健康/脆弱/衰弱）、MDT管理、共同决策流程
+    - [[Geriatric_Assessment]] — 标准化多维度评估工具集：功能（ADL/IADL/TUG/SPPB）、认知（MMSE/Mini-Cog）、营养（MNA）、共病症（CCI/CIRS-G）、心理（GDS）、社会支持（MOS）
+    - [[Functional_Age]] — 功能年龄评估：ADL/IADL缺陷、身体活动能力（步态、平衡、跌倒风险）的综合指标，与化疗毒性、手术并发症强相关
+    - [[Physiological_Age]] — 生理年龄与衰老生物标志物：炎症（IL-6/TNFα/CRP）、细胞衰老（端粒/P16）、表观遗传（DNA甲基化年龄）、内分泌、基因组标志物
+
+- **关键科学发现**:
+  - **时间年龄的无力**：同龄患者的生理和功能状态可能相差数年甚至十多年，仅基于年龄（如"≥75岁"）限制治疗是医源性伤害
+  - **多维度评估的必要性**：
+    - 许多 ECOG 0-1 的老年患者有显著的 ADL/IADL 缺陷（掩蔽的衰弱）
+    - GA 识别出的风险（营养不良、认知障碍、社会隔离）可通过干预改善
+  - **衰老生物标志物的新进展**：
+    - 表观遗传年龄（DNA甲基化）超龄预示全因死亡率升高，较临床标志物组合更强
+    - 循环炎症（IL-6）与认知衰退、虚弱、预后不良独立相关
+    - 细胞衰老标志物（P16INK4a）在化疗后升高，与长期毒性相关
+  - **器官功能的药代学后果**：
+    - 肾脏清除能力线性下降（年 0.8-1 mL/min），肌酐不可靠（肌肉质量减少）
+    - 肝脏代谢减少30-50%，导致药物半衰期延长与积累
+    - SIOG 发布的肾功能不全患者化疗剂量调整建议
+
+- **临床转化潜力**:
+  - **GA驱动的决策**：代替年龄阈值，采用 GA 结果进行：
+    - 健康老年人（Fit）：标准治疗强度
+    - 脆弱患者（Vulnerable）：剂量调整 + 强化监测 + 支持性护理增加
+    - 衰弱患者（Frail）：保守治疗或支持性护理为主
+  - **多学科管理（MDT）**：肿瘤科 + 老年医学 + 护士 + 营养师 + 心理 + 社工 + 康复的协同
+  - **干预策略**：基于 GA 的营养支持、认知康复、防跌倒、心理支持等可改善功能年龄
+
+- **与既有知识的整合**:
+  - 支持 [[comorbidity-assessment-in-ibd]] 的框架：共病症评估比年龄更强预测安全性
+  - 映证 [[Charlson_Comorbidity_Index]] 在 IBD 中的价值，CCI 与生物制剂感染/住院风险相关
+  - 为老年IBD患者的个体化治疗提供工具化支撑：GA框架可直接应用于老年IBD共同决策
+  - 展示精准医学（[[Precision_Medicine_IBD]]）中功能表型的重要性
+
+- **知识库统计** (本次ingest后):
+  - 源摘要增加1篇（72+1=73篇）
+  - 核心概念增加4个（144+4=148个）：Geriatric_Oncology, Geriatric_Assessment, Functional_Age, Physiological_Age
+  - 总文件数增加5个（345+5=350个 → 后续归档源文件后为354个）
+  - **新主题领域**：老年肿瘤学与功能年龄评估，扩展知识库至临床老年学
+
+## [2026-05-11] ingest | IBD患者合并症与生物制剂安全性研究 (Asscher et al., 2020)
+
+- **源文件**: Clippings/Comorbidity, not patient age, is associated with impaired safety outcomes in vedolizumab‐ and ustekinumab‐treated patients with inflammatory bowel disease.md
+  
+  (Aliment Pharmacol Ther. 2020 Sep 9;52(8):1366–1376; PMID: 32901983; DOI: 10.1111/apt.16073)
+  
+  荷兰ICC登记库多中心前瞻性队列研究，203例vedolizumab患者与207例ustekinumab患者，评估合并症与年龄对生物制剂安全性和有效性的影响
+
+- **变更**: 新增 4 个页面 + 更新 2 个实体页面 + 更新 index.md 与 log.md
+
+  - **新增源摘要** (1):
+    - [[摘要-ibd-comorbidity-vedolizumab-ustekinumab-safety]] — 核心发现：Charlson Comorbidity Index (CCI)是感染和住院的独立预测因子，而患者年龄本身无独立关联
+  
+  - **新增实体页面** (1):
+    - [[Charlson_Comorbidity_Index]] — 加权合并症评估工具，19种预定义疾病，理论范围0-33分，在IBD患者中优于年龄用于安全性预测
+
+  - **新增概念页面** (2):
+    - [[comorbidity-assessment-in-ibd]] — IBD患者合并症评估与管理框架，系统评估工具、分层策略、多学科协作、监测强度调整
+    - [[safety-outcomes-in-biologic-therapy]] — IBD患者生物制剂治疗安全性结果系统评估，感染、住院、TAE、恶性肿瘤等指标的定义、流行病学、与合并症的关系
+
+  - **更新现有实体页面** (2):
+    - [[Vedolizumab]]: 新增 "合并症与安全性" 部分，补充CCI相关数据（OR 1.387 for infection, OR 1.586 for hospitalization）
+    - [[Ustekinumab]]: 新增 "合并症与安全性" 部分，补充CCI相关数据（OR 1.621 for hospitalization）
+
+- **关键科学发现**:
+  - **推翻年龄假设**：患者年龄本身与感染、住院、不良事件、恶性肿瘤**无独立关联**，这颠覆了长期的临床实践假设
+  - **合并症是关键**：
+    - Vedolizumab: CCI每增加1分，感染风险增加38.7% (OR 1.387), 住院风险增加58.6% (OR 1.586)
+    - Ustekinumab: CCI每增加1分，住院风险增加62.1% (OR 1.621)
+  - **有效性不受影响**：CCI与两种生物制剂的临床应答或缓解率无关
+  - **肠道选择性优势**：Vedolizumab的感染风险预测与Ustekinumab相似，均表现出与合并症的强相关性
+
+- **临床转化潜力**:
+  - **治疗决策重新框架**：应基于CCI等级而非年龄进行生物制剂选择和监测强度调整
+  - **高CCI患者的管理**：
+    - CCI ≥3（重度合并症）：首选Vedolizumab（感染风险最低）> Ustekinumab（皮下给药便利） > Anti-TNF（需谨慎）
+    - 需要强化感染监测（每2-4周临床评估）和多学科协作
+  - **老年患者安全性重新评估**：不应仅因年龄≥65-75岁而限制生物制剂使用，而应根据CCI综合评估
+
+- **与既有知识的整合**:
+  - 支持并补充[[摘要-elderly-ibd-systematic-review]]: 提供真实世界队列的合并症数据
+  - 强化[[Vedolizumab]]在高风险患者中的优先地位（肠道选择性、感染风险低）
+  - 建立[[comorbidity-assessment-in-ibd]]新概念：合并症评估比年龄评估更具临床价值
+  - 完善[[safety-outcomes-in-biologic-therapy]]框架：定量风险分层和监测策略
+
+- **知识库统计** (本次ingest后):
+  - 源摘要增加1篇（73+1=74篇）
+  - 实体增加1个（65+1=66个）：Charlson_Comorbidity_Index
+  - 核心概念增加2个（144+2=146个）：comorbidity-assessment-in-ibd, safety-outcomes-in-biologic-therapy
+  - 总文件数增加4个（345+4=349个）
+
+- **冲突检查**: 无冲突。Vedolizumab和Ustekinumab页面的更新为增量合并，未修改既有信息。
+
+---
+
 ## [2026-05-11] ingest | 老年IBD患者的疾病特征与治疗模式队列研究
 
 - **源文件**: raw/02-papers/Elderly‐Onset Inflammatory Bowel Disease Has Distinct Disease Characteristics and Treatment Patterns.md

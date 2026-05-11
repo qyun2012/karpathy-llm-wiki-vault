@@ -41,6 +41,18 @@
       "ctime": 1778531530589,
       "path": "wiki/sources/证据-elderly-ibd-unique-phenotype.md",
       "title": "elderly-ibd-unique-phenotype"
+    },
+    {
+      "type": "file",
+      "ctime": 1778533023031,
+      "path": "wiki/concepts/comorbidity-assessment-in-ibd.md",
+      "title": "合并症评估工具"
+    },
+    {
+      "type": "file",
+      "ctime": 1778533520126,
+      "path": "wiki/concepts/Geriatric_Assessment.md",
+      "title": "老年医学评估"
     }
   ]
 }
