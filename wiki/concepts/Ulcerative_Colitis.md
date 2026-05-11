@@ -208,6 +208,9 @@ last_updated: 2026-04-24
 - [[Crohn_Disease]] — 相关的 IBD 疾病
 - [[Microbiome_Host_Interactions]] — 底层病理机制
 - [[Xenolipids]] — 新型治疗靶点的潜在方向
+- [[Dietary_Inflammatory_Index]] — 膳食炎症指标，UC与其无显著关联
+- [[IBD-Dietary-Management]] — IBD膳食管理
+- [[摘要-dietary-inflammatory-potential-crohn-uc]] — EDIP与IBD风险对比分析（UC vs CD）
 
 ---
 

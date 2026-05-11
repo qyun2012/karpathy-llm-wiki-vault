@@ -4,8 +4,8 @@
   "title": "Ingest geriatric cancer assessment guide",
   "titleGenerationStatus": "success",
   "createdAt": 1778533082022,
-  "updatedAt": 1778534189270,
-  "lastResponseAt": 1778534189270,
+  "updatedAt": 1778535675292,
+  "lastResponseAt": 1778535436619,
   "sessionId": "a84b70a0-8818-4251-958f-0fc8e6a755b1",
   "providerState": {
     "providerSessionId": "a84b70a0-8818-4251-958f-0fc8e6a755b1"
@@ -13,11 +13,11 @@
   "usage": {
     "model": "haiku",
     "inputTokens": 8,
-    "cacheCreationInputTokens": 290,
-    "cacheReadInputTokens": 128497,
+    "cacheCreationInputTokens": 3190,
+    "cacheReadInputTokens": 151710,
     "contextWindow": 200000,
-    "contextTokens": 128795,
-    "percentage": 64,
+    "contextTokens": 154908,
+    "percentage": 77,
     "contextWindowIsAuthoritative": true
   }
 }

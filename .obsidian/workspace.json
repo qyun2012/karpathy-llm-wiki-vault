@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f0846b3cc7a1003",
+            "id": "31f4691c6524ceca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Ultra-processed foods and risk of Crohn’s disease and ulcerative colitis a prospective cohort study.md",
+                "file": "Clippings/Inflammatory Potential of the Diet and Risk of Crohn's Disease and Ulcerative Colitis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ultra-processed foods and risk of Crohn’s disease and ulcerative colitis a prospective cohort study"
-            }
-          },
-          {
-            "id": "2862db5ef8bfbbf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/concepts/Geriatric_Assessment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Geriatric_Assessment"
-            }
-          },
-          {
-            "id": "7c37404633c49c28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/concepts/Chronological_Age.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chronological_Age"
-            }
-          },
-          {
-            "id": "ade2e897dab40976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/notes/未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Inflammatory Potential of the Diet and Risk of Crohn's Disease and Ulcerative Colitis"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wiki/log.md",
+                "query": "双层评估框架",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -270,34 +227,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5d77247f1b40f61",
+  "active": "0d21e527da1dadcd",
   "lastOpenFiles": [
-    "wiki/concepts/DNA_Methylation_Clocks.md",
+    "wiki/sources/摘要-isd-dietary-inflammatory-potential-cd-uc.md",
+    "Clippings/Comorbidity, not patient age, is associated with impaired safety outcomes in vedolizumab‐ and ustekinumab‐treated patients with inflammatory bowel disease—a prospective multicentre cohort study 1.md",
+    "Clippings/Inflammatory Potential of the Diet and Risk of Crohn's Disease and Ulcerative Colitis.md",
+    "wiki/表观遗传年龄与精准医学-可视化指南.md",
+    "Clippings/Dietary Inflammatory Potential and Risk of Crohn’s Disease and Ulcerative Colitis.md",
+    "raw/09-archive/Dietary Inflammatory Potential and Risk of Crohn’s Disease and Ulcerative Colitis.md",
+    "wiki/concepts/Dietary_Inflammatory_Index.md",
+    "wiki/sources/摘要-dietary-inflammatory-potential-crohn-uc.md",
+    "raw/notes/表观遗传年龄-可视化.md",
+    "wiki/log.md",
     "wiki/syntheses/表观遗传年龄与精准医学-DNA甲基化患者分层.md",
-    "wiki/concepts/Geriatric_Assessment.md",
+    "Clippings/Ultra-processed foods and risk of Crohn’s disease and ulcerative colitis a prospective cohort study.md",
     "wiki/syntheses/老年IBD患者临床管理指南.md",
+    "wiki/concepts/Chronological_Age.md",
+    "wiki/concepts/DNA_Methylation_Clocks.md",
+    "wiki/concepts/Geriatric_Assessment.md",
     "raw/notes/未命名.md",
     "wiki/synthesis/老年IBD系统综述框架-2026.md",
     "wiki/sources/摘要-functional-age-geriatric-oncology.md",
     "wiki/entities/Geriatric_Assessment_Toolkit.md",
-    "wiki/concepts/Chronological_Age.md",
-    "Clippings/Ultra-processed foods and risk of Crohn’s disease and ulcerative colitis a prospective cohort study.md",
     "raw/09-archive/Functional versus chronological age geriatric assessments to guide decision making in older patients with cancer.md",
     "wiki/concepts/Geriatric_Oncology.md",
     "wiki/concepts/Physiological_Age.md",
     "wiki/concepts/Functional_Age.md",
     "Clippings/Functional versus chronological age geriatric assessments to guide decision making in older patients with cancer.md",
     "wiki/entities/Charlson_Comorbidity_Index.md",
-    "wiki/sources/摘要-ibd-comorbidity-vedolizumab-ustekinumab-safety.md",
-    "wiki/concepts/safety-outcomes-in-biologic-therapy.md",
-    "wiki/concepts/comorbidity-assessment-in-ibd.md",
-    "Clippings/Comorbidity, not patient age, is associated with impaired safety outcomes in vedolizumab‐ and ustekinumab‐treated patients with inflammatory bowel disease—a prospective multicentre cohort study.md",
-    "Clippings/Elderly‐Onset Inflammatory Bowel Disease Has Distinct Disease Characteristics and Treatment Patterns.md",
-    "raw/09-archive/Elderly‐Onset Inflammatory Bowel Disease Has Distinct Disease Characteristics and Treatment Patterns.md",
-    "wiki/sources/摘要-elderly-onset-ibd-treatment-characteristics.md",
-    "raw/02-papers/Elderly‐Onset Inflammatory Bowel Disease Has Distinct Disease Characteristics and Treatment Patterns.md",
-    "wiki/concepts/CT_Elderly_IBD_Personalized_Treatment.md",
-    "wiki/sources/证据-elderly-ibd-unique-phenotype.md",
     "Clippings/09-archive",
     "assets/template",
     "raw/02-papers/术后管理 nature.rtf",

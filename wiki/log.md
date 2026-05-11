@@ -1,3 +1,57 @@
+## [2026-05-11] ingest | 膳食炎症潜能与IBD风险关联研究
+
+- **新增资源** (2个):
+  
+  1. **源摘要**:
+     - [[摘要-dietary-inflammatory-potential-crohn-uc]] — Gastroenterology 2020年发表的美国三队列研究(208,834人)，分析EDIP评分与IBD风险关系。核心发现：高EDIP与克罗恩病风险增加51%(HR 1.51, P=0.01)，与溃疡性结肠炎无关联(P=0.62)。包含EDIP评分系统、群体特征、统计方法、临床意义与知识冲突标注。
+  
+  2. **概念新增**:
+     - [[Dietary_Inflammatory_Index]] — 膳食炎症指标综合框架(458行)，涵盖DII与EDIP两种评估工具、IBD特异性关联机制、临床应用指南、与其他膳食模式对比、评估方法、知识局限与实施路线图
+
+- **更新现有页面** (2个):
+  
+  - [[Crohn_Disease]] — 关联连接中新增3条：Dietary_Inflammatory_Index、IBD-Dietary-Management、摘要-dietary-inflammatory-potential-crohn-uc
+  - [[Ulcerative_Colitis]] — 关联连接中新增3条：Dietary_Inflammatory_Index、IBD-Dietary-Management、摘要-dietary-inflammatory-potential-crohn-uc
+
+- **更新全局索引** (2处):
+  
+  - [[wiki/index.md]] - 概念部分新增 Dietary_Inflammatory_Index 条目
+  - [[wiki/index.md]] - 源摘要部分新增摘要-dietary-inflammatory-potential-crohn-uc 条目
+
+- **知识库统计**：
+  - 总文件数：360 → **362**（+2）
+  - 核心概念：150 → **151**（+1）
+  - 源摘要：73 → **74**（+1）
+
+- **冲突处理**：无冲突发现
+
+---
+
+## [2026-05-11] create | 表观遗传年龄与精准医学可视化指南
+
+- **新增可视化资源** (1个):
+  
+  - [[表观遗传年龄与精准医学-可视化指南]] — 7个关键Mermaid图表，包含：
+    * 图表1：DNA甲基化时钟与EAA评估（分子基础层）
+    * 图表2：双层评估框架（功能年龄 + 表观遗传年龄）
+    * 图表3：EAA与临床预后关联（证据链）
+    * 图表4：老年IBD患者生物制剂选择决策树
+    * 图表5：生活方式干预与EAA可逆性（12个月监测）
+    * 图表6：老年肿瘤患者化疗决策树
+    * 图表7：知识体系总览（思维导图）
+  
+  **特色**：
+  - ✅ Obsidian原生支持（无需插件）
+  - ✅ 可交互使用（点击节点可关联）
+  - ✅ 语义着色（绿=安全，红=风险，紫=分析，黄=干预）
+  - ✅ 临床可读（包含数值、风险分级、监测频度）
+
+- **知识库统计**：
+  - 总文件数：359 → **360**（+1）
+  - 综合分析：10 → **11**（+1个可视化指南）
+
+---
+
 ## [2026-05-11] create | 表观遗传年龄与精准医学综合框架 + DNA甲基化时钟概念页
 
 - **新增核心内容** (2个资源):

@@ -124,3 +124,6 @@ last_updated: 2026-05-02
 - [[Fecal-Calprotectin]] — 关键生物标志物
 - [[Ulcerative_Colitis]] — 相关的另一 IBD 类型
 - [[摘要-stride-ii-ibd-treatment-targets]] — 参考指南
+- [[Dietary_Inflammatory_Index]] — 膳食炎症指标，与CD风险的证实关联
+- [[IBD-Dietary-Management]] — IBD膳食管理，包含膳食炎症潜能优化
+- [[摘要-dietary-inflammatory-potential-crohn-uc]] — EDIP与CD风险关联的关键研究

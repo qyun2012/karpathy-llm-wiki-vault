@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778535811384-sf8c1avl1",
+  "providerId": "claude",
+  "title": "Ingest dietary inflammatory IBD study",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778535811384,
+  "updatedAt": 1778536116366,
+  "lastResponseAt": 1778535991039,
+  "sessionId": "6b94d4af-0718-4e25-b705-a6c39df37134",
+  "providerState": {
+    "providerSessionId": "6b94d4af-0718-4e25-b705-a6c39df37134"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 935,
+    "cacheReadInputTokens": 124522,
+    "contextWindow": 200000,
+    "contextTokens": 125465,
+    "percentage": 63,
+    "contextWindowIsAuthoritative": true
+  }
+}
