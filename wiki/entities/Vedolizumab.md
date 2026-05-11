@@ -193,14 +193,16 @@ last_updated: 2026-04-30
 - [[老年期IBD]] — 老年患者管理的核心推荐
 - [[Ulcerative_Colitis]] — UC中的应用
 - [[Crohn_Disease]] — CD中的应用
+- [[Late-onset IBD]] — 老年起病型IBD
 
 ### 管理框架
-- [[免疫衰老]] — 老年患者的病理生理基础
-- [[脆弱性指数]] — 患者风险分层工具
+- [[Immunosenescence]] — 老年患者的病理生理基础
+- [[Inflammaging]] — 炎症衰老
+- [[Frailty-in-IBD]] — 患者虚弱评估工具
 - [[Therapeutic_Drug_Monitoring]] — 长期监测策略
-- [[多病共存与多药物治疗]] — 老年患者的复杂性管理
+- [[Multimorbidity]] — 老年患者的复杂性管理
 
 ### 临床证据
-- [[摘要-systematic-review-elderly-ibd-triantafillidis-2026]] — 原始循证支持
+- [[摘要-elderly-ibd-systematic-review]] — 2026年老年IBD系统综述（Triantafillidis）：Vedolizumab作为优先选择的循证支持
 - [[synthesis-ibd-clinical-research-entry-points]] — 中国本地化应用框架
 

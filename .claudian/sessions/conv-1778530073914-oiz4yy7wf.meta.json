@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778530073914-oiz4yy7wf",
+  "providerId": "claude",
+  "title": "Ingest Elderly IBD Treatment Review",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778530073914,
+  "updatedAt": 1778531552136,
+  "lastResponseAt": 1778530676135,
+  "sessionId": "69b3b382-7b08-4c07-849e-ea5ce3d3d314",
+  "providerState": {
+    "providerSessionId": "69b3b382-7b08-4c07-849e-ea5ce3d3d314"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1094,
+    "cacheReadInputTokens": 150424,
+    "contextWindow": 200000,
+    "contextTokens": 151526,
+    "percentage": 76,
+    "contextWindowIsAuthoritative": true
+  }
+}

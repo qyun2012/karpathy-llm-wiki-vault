@@ -1,9 +1,9 @@
 ---
 title: "Ustekinumab"
 type: entity
-tags: [生物制剂, IL-12/23拮抗剂, 克罗恩病, 溃疡性结肠炎, 治疗]
-sources: [Clippings/Perioperative and Postoperative Management of Patients With Crohn's Disease and Ulcerative Colitis.md]
-last_updated: 2026-05-10
+tags: [生物制剂, IL-12/23拮抗剂, 克罗恩病, 溃疡性结肠炎, 治疗, 老年IBD]
+sources: [Clippings/Perioperative and Postoperative Management of Patients With Crohn's Disease and Ulcerative Colitis.md, Clippings/Challenges and Treatment Strategies in Elderly Patients with Inflammatory Bowel Disease A Systematic Review and Narrative Synthesis 1.md]
+last_updated: 2026-05-11
 ---
 
 ## 定义
@@ -54,27 +54,61 @@ last_updated: 2026-05-10
 | 术后CD复发预防 | 证据积累中 | 最优（SUCRA>90%） | 有效但少于抗TNF |
 | 难治性囊炎应答 | 83% @6个月 | 37% |良好 |
 
+## 老年患者（≥60岁）中的优势
+
+根据2026年系统综述[[摘要-elderly-ibd-systematic-review]]的证据：
+
+**相比Anti-TNF的优势**：
+- **感染风险**：显著低于Anti-TNF（特别是无与硫嘌呤联合的情况下）
+- **恶性肿瘤风险**：中等偏低，长期安全性数据良好
+- **多病共存兼容性**：不增加心功能恶化，不与大多数老年用药发生重大相互作用
+- **给药方式**：皮下注射，相对于IV输注的Vedolizumab可提高依从性
+
+**相比Vedolizumab的对比**：
+- **缓解率**：相当或略高
+- **起效速度**：与Vedolizumab相似（4-8周）
+- **感染风险**：Vedolizumab略低，但Ustekinumab仍远低于Anti-TNF
+- **给药便利性**：皮下注射优于Vedolizumab的IV输注
+
+**老年患者推荐场景**：
+1. **Anti-TNF失效或禁忌**后的首选转换选项
+2. **高感染风险但不能接受IV输注**的患者
+3. **需要更快缓解维持**的患者（可能略优于Vedolizumab）
+4. **既往生物制剂失败**的患者中的再挽救选项
+
 ## 临床地位与发展
 
 - 2019年被确认为IBD生物制剂中的重要选项
 - 特别适用于：抗TNF无应答/失效、对IL-23抑制敏感的患者亚群
-- 正在进行的研究探索其在术后预防中的角色
+- 在老年IBD患者中，作为**优先于Anti-TNF的生物制剂选项**（与Vedolizumab并列）
+- 正在进行的研究探索其在术后预防和老年患者预防中的角色
 
 ## 关联连接
 
 ### 相关药物
+- [[Anti-TNF_Therapy]] — 抗TNF疗法（需要对比）
+- [[Vedolizumab]] — 整合素拮抗剂（老年患者首选替代）
 - [[Infliximab]] — 抗TNF单克隆抗体
 - [[Adalimumab]] — 抗TNF单克隆抗体
-- [[Vedolizumab]] — 整合素拮抗剂
 
 ### 相关疾病与治疗
 - [[Crohn_Disease]] — 克罗恩病
 - [[Inflammatory_Bowel_Disease]] — 炎症性肠病
+- [[Late-onset IBD]] — 老年起病型IBD
+- [[Ulcerative_Colitis]] — 溃疡性结肠炎
 - [[IPAA]] — 回肠囊肛门吻合术
 
 ### 相关临床情景
 - [[摘要-perioperative-postoperative-cd-uc]] — 围手术期CD/UC管理综述
+- [[摘要-elderly-ibd-systematic-review]] — 2026年老年IBD系统综述：Ustekinumab作为优先生物制剂
 - [[Post-Surgical-Remission-Maintenance]] — 术后缓解维持
+- [[concept-drug-safety-elderly-ibd]] — 老年IBD药物安全性
+
+### 管理框架
+- [[Immunosenescence]] — 老年患者的免疫衰老
+- [[Inflammaging]] — 炎症衰老
+- [[Frailty-in-IBD]] — 虚弱评估
+- [[Multimorbidity]] — 多病共存管理
 
 ### 实体与组织
 - [[FDA]] — 美国食品药品监督管理局（批准机构）

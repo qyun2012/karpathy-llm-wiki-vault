@@ -1,3 +1,131 @@
+## [2026-05-11] ingest | 老年IBD患者的疾病特征与治疗模式队列研究
+
+- **源文件**: raw/02-papers/Elderly‐Onset Inflammatory Bowel Disease Has Distinct Disease Characteristics and Treatment Patterns.md
+  
+  （UEG Journal, 2026; DOI: 10.1002/ueg2.70092; PMCID: 待确认）
+  
+  以色列Sheba医学中心真实世界队列研究，3307名IBD患者（2247名CD、1060名UC），比较老年发病IBD（≥60岁，n=290）与成人发病IBD（18-60岁，n=3017）的疾病表现型与治疗暴露（2000-2022年）
+
+- **变更**: 新增 1 个源摘要 + 更新 index.md 与 log.md
+
+  - **新增源摘要** (1):
+    - [[摘要-elderly-onset-ibd-treatment-characteristics]] — 老年IBD的疾病表现型与治疗保守策略，高结肠限局性、低生物制剂使用、Vedolizumab优先选择
+
+  - **关键数据提炼**:
+    - 疾病表现型：老年UC占38.3%（vs aIBD 31.4%）；CD中L2型占21%（vs aCD 12%）；渗透性B3型仅7.4%（vs aCD 19%）；肛周病变10%（vs aCD 20%）
+    - 治疗暴露：5-ASA使用率CD 36% vs 17%（HR 2.5），UC 75% vs 63%（HR 1.4）；生物制剂使用率CD 37% vs 56%（HR 0.6），UC 20% vs 35%（HR 0.6）；15年生物制剂-无生存期显著延长
+    - 一线生物制剂：老年CD中Vedolizumab占46% vs aCD 10%（p<0.001），Anti-TNF仅20% vs aCD 90%；老年UC中Vedolizumab占68% vs aUC 38%（p<0.001），Anti-TNF仅23% vs aUC 63%
+
+- **核心科学贡献**:
+  - **疾病温和性的定量证实**：老年IBD的渗透性表型与肛周病变显著低于成人，但并非所有维度都温和（系统炎症标志物升高）
+  - **保守治疗哲学的真实世界证据**：为什么老年患者少用生物制剂？数据表明非仅由病变严重程度决定（L3/E3亚组分析仍显著）
+  - **生物制剂选择的地理-时间模式**：Vedolizumab在老年患者中的优先度远高于全球现状，提示个体化安全-有效性权衡
+
+- **临床转化潜力**:
+  - **诊疗决策框架**：老年IBD患者应首选Vedolizumab/Ustekinumab而非Anti-TNF，但需在真实世界数据中进一步验证长期安全性
+  - **生物制剂选择的重新排序**：现有指南多基于合并用药与多病共存的担忧，本研究提供队列级证据支持差异化选择
+  - **监管与指南更新**：ECCO/ACG指南中关于老年IBD生物制剂的推荐强度应升级
+
+- **与既有知识的整合**:
+  - 与[[摘要-elderly-ibd-systematic-review]]的互补关系：后者侧重免疫学机制与虚弱评估，本研究侧重流行病学与药物选择
+  - 支持[[Late-onset IBD]]概念：疾病表现型确实不同（低侵袭性+高结肠限局性）
+  - 强化[[Vedolizumab]]在老年人群中的地位（一线药物而非替代方案）
+
+- **知识库统计** (本次ingest后):
+  - 源摘要增加1篇（72+1=73篇）
+  - 生物制剂实体未新增，但关联连接需更新（Vedolizumab、Anti-TNF）
+  - 核心概念无新增（[[Late-onset IBD]]已在前期ingest中建立）
+
+---
+
+## [2026-05-11] synthesis | "温和炎症+高系统脆弱"独特表型的机制证据详解
+
+- **输出**：[[证据-elderly-ibd-unique-phenotype]] — 深度机制论文
+- **目标**：将核心论断"免疫衰老 + 炎症衰老 + 菌群失调 → 独特表型"转化为多维度、可量化的证据链
+
+- **核心内容**：
+  - **第一部分**：免疫衰老机制（T/B/NK细胞衰老的分子证据）
+  - **第二部分**：炎症衰老机制（SASP、信号通路激活的证据）
+  - **第三部分**：菌群失调机制（SCFA↓、LPS↑的因果关系）
+  - **第四部分**：三者协同导致"温和炎症"和"高系统脆弱"的量化表格
+  - **第五部分**：系统综述中的直接引用
+  - **第六部分**：研究空白与后续方向
+
+- **关键数据表**：
+  | 因素 | 免疫衰老贡献 | 炎症衰老贡献 | 菌群失调贡献 | 临床表现 |
+  |---|---|---|---|---|
+  | 局部肠道炎症 | T细胞反应↓ | SASP持续 | 促炎菌株↑ | **温和** |
+  | 系统炎症标志物 | 先天免疫↓ | TNF-α/IL-6↑↑ | LPS↑ | **升高** |
+  | 感染易感性 | 新抗原应对↓ | 屏障衰老 | 防御菌↓ | **高** |
+
+- **知识融合价值**：
+  - 将[[Immunosenescence]] 的理论与[[Inflammaging]]与[[Short-chain fatty acids (SCFAs)]]的具体生物学整合
+  - 为[[Precision_Medicine_IBD]]中的老年患者亚群提供明确的生物学基础
+  - 解释为什么[[Vedolizumab]]/[[Ustekinumab]]比[[Anti-TNF_Therapy]]更安全（基于菌群-屏障-LPS通路）
+
+- **与现有知识的对接**：
+  - ✅ 完全兼容[[concept-elderly-ibd-diagnosis]]（症状温和但诊断困难）
+  - ✅ 支持[[concept-drug-safety-elderly-ibd]]中生物制剂的安全性分层
+  - ✅ 为[[Peri-operative_Management_IBD]]中的虚弱评估提供机制解释
+  - ✅ 补充[[Precision_Medicine_IBD]]中个体化治疗的科学基础
+
+---
+
+## [2026-05-11] ingest | 老年患者IBD挑战与治疗策略系统综述
+
+- **源文件**: Clippings/Challenges and Treatment Strategies in Elderly Patients with Inflammatory Bowel Disease A Systematic Review and Narrative Synthesis 1.md
+  
+  （Journal of Personalized Medicine. 2026 Jan 23;16(2):59; DOI: 10.3390/jpm16020059; PMCID: PMC12941479）
+  
+  系统综述与叙述性综合分析：40项研究（5项RCT + 15项前瞻性 + 20项回顾性）关于≥60岁IBD患者的流行病学、临床特征与治疗管理
+
+- **变更**: 新增 1 个源摘要 + 更新 2 个生物制剂实体 + 更新 index.md 与 log.md
+
+  - **新增源摘要** (1):
+    - [[摘要-elderly-ibd-systematic-review]] — 老年IBD系统综述，涵盖免疫衰老、炎症衰老、诊断困难、生物制剂优先选择（Vedolizumab≈Ustekinumab > JAK抑制剂 > Anti-TNF）、虚弱评估、多药合理化
+
+  - **更新现有实体** (2):
+    - [[Vedolizumab]] — 添加新的关联连接至[[Late-onset IBD]]、[[摘要-elderly-ibd-systematic-review]]
+    - [[Ustekinumab]] — 新增老年患者数据部分、感染风险对比、转换策略、更新关联连接
+
+  - **更新现有页面** (1):
+    - [[index.md]] — 新增1个源摘要条目；注意：无新增核心概念（Immunosenescence、Inflammaging已存在）
+
+- **核心科学贡献**:
+  - **老年IBD的独特表型验证**：炎症表现相对温和但全身脆弱性与感染风险反向升高，与免疫衰老+多病共存的叠加效应相关
+  - **生物制剂安全性的分层证据**：感染风险排序 Vedolizumab(17%) ≈ Ustekinumab < JAK抑制剂 << Anti-TNF(∼40%)，改变了Anti-TNF-first策略
+  - **虚弱评估的核心地位**：虚弱患者从激进免疫抑制中获益有限，应优先生物制剂单独治疗而非联合化疗
+  - **多学科协作的必要性**：86%老年IBD患者≥5种并发药物，多药合理化与肠胃科+老年科+药学的整合管理必需
+
+- **临床转化潜力**:
+  - **诊疗转变**：从"Anti-TNF优先"向"Vedolizumab/Ustekinumab优先+虚弱评估导向"转变
+  - **治疗前评估标准化**：纳入虚弱量化工具（Clinical Frailty Scale）、营养评估、预防性接种状态审查
+  - **围手术期管理优化**：术前虚弱评估+最小创伤技术+老年科支持可显著降低围手术期并发症
+  - **抗微生物素耐药防控**：营养干预+优化免疫→降低感染率→减少抗菌素使用的双重收益
+
+- **与既有知识的整合**:
+  - [[Immunosenescence]] + [[Inflammaging]] 为老年IBD的病理生理基础（已在之前ingest中建立）
+  - [[concept-elderly-ibd-diagnosis]] 中的诊断困难在本综述中得到量化强调（症状非特异性、鉴别诊断复杂）
+  - [[Vedolizumab]] 与 [[Ustekinumab]] 从争议地位升级为**优先推荐选项**（改变现有知识层级）
+  - [[Frailty]] 评估从可选转变为**必需**的老年IBD管理标准
+
+- **关联网络扩展**:
+  - 上游连接：[[Immunosenescence]] + [[Inflammaging]] → [[Late-onset IBD]] 的病理生理机制
+  - 同级连接：[[Vedolizumab]] ← → [[Ustekinumab]] (老年患者并列首选) ← → [[Anti-TNF_Therapy]] (需避免)
+  - 下游应用：[[concept-elderly-ibd-diagnosis]] → 治疗选择 → [[concept-drug-safety-elderly-ibd]] → [[concept-perioperative-management-elderly-ibd]]
+
+- **冲突检查**: 
+  - ✅ 完全一致：生物制剂安全性分层与[[concept-drug-safety-elderly-ibd]]中的排序一致
+  - ✅ 补充升级：将虚弱评估的重要性从"推荐"升级为"必需"（新证据强度）
+  - ✅ 拓展应用：为[[Precision_Medicine_IBD]]中老年患者分层提供循证基础
+
+- **知识库统计** (本次ingest后预计更新):
+  - 源摘要增加1篇（当前72篇）
+  - 生物制剂实体完善但无新增
+  - 核心概念无新增（核心免疫学概念已完备）
+
+---
+
 ## [2026-05-11] ingest | 术后感染防控的营养干预系统综述与元分析
 
 - **源文件**: Clippings/The role of nutritional supplementation in preventing postoperative complications a systematic review and meta-analysis.md

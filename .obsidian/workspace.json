@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a1e0ac38265c08b",
+        "id": "908c152bbad74480",
         "type": "tabs",
         "children": [
           {
-            "id": "540aba89d532e38b",
+            "id": "6f0846b3cc7a1003",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/synthesis/老年IBD系统综述框架-2026.md",
+                "file": "wiki/sources/证据-elderly-ibd-unique-phenotype.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "老年IBD系统综述框架-2026"
+              "title": "证据-elderly-ibd-unique-phenotype"
             }
           }
         ]
@@ -228,13 +228,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "540aba89d532e38b",
+  "active": "b5d77247f1b40f61",
   "lastOpenFiles": [
+    "raw/09-archive/Elderly‐Onset Inflammatory Bowel Disease Has Distinct Disease Characteristics and Treatment Patterns.md",
+    "wiki/sources/摘要-elderly-onset-ibd-treatment-characteristics.md",
+    "raw/02-papers/Elderly‐Onset Inflammatory Bowel Disease Has Distinct Disease Characteristics and Treatment Patterns.md",
+    "wiki/concepts/CT_Elderly_IBD_Personalized_Treatment.md",
+    "Clippings/Elderly‐Onset Inflammatory Bowel Disease Has Distinct Disease Characteristics and Treatment Patterns.md",
+    "wiki/sources/证据-elderly-ibd-unique-phenotype.md",
+    "wiki/sources/摘要-elderly-ibd-systematic-review.md",
+    "Clippings/Challenges and Treatment Strategies in Elderly Patients with Inflammatory Bowel Disease A Systematic Review and Narrative Synthesis.md",
+    "Clippings/Challenges and Treatment Strategies in Elderly Patients with Inflammatory Bowel Disease A Systematic Review and Narrative Synthesis 1.md",
+    "raw/09-archive/Challenges and Treatment Strategies in Elderly Patients with Inflammatory Bowel Disease A Systematic Review and Narrative Synthesis 1.md",
+    "wiki/synthesis/老年IBD系统综述框架-2026.md",
     "wiki/log.md",
     "raw/notes/Fiber Tolerance Paradox**.md",
     "CLAUDE.md",
     "wiki/sources/摘要-营养疗法临床研究汇总.md",
-    "wiki/synthesis/老年IBD系统综述框架-2026.md",
     "raw/09-archive/营养相关研究汇总.md",
     "raw/notes/营养相关研究汇总.md",
     "wiki/concepts/术后营养管理.md",
@@ -246,16 +256,6 @@
     "wiki/concepts/Probiotics.md",
     "wiki/concepts/Immunonutrition.md",
     "wiki/sources/摘要-nutritional-supplementation-postoperative.md",
-    "wiki/entities/NCT06254586-NUTRITION-PK.md",
-    "wiki/entities/NCT04918719-Post-op-PEN.md",
-    "raw/09-archive/# IBD 术后及维持期营养干预临床研究注册汇总.md",
-    "raw/notes/# IBD 术后及维持期营养干预临床研究注册汇总.md",
-    "wiki/concepts/INBA自适应平台试验.md",
-    "wiki/sources/摘要-ibd-营养干预临床研究汇总.md",
-    "Clippings/(PDF) The role of nutritional supplementation in preventing postoperative complications a systematic review and meta-analysis.md",
-    "Clippings/09-archive/Exclusive Enteral Nutrition Exerts Anti-Inflammatory Effects through Modulating Microbiota, Bile Acid Metabolism, and Immune Activities.md",
-    "wiki/entities/Clostridium_innocuum.md",
-    "wiki/entities/Hyocholic_Acid.md",
     "Clippings/09-archive",
     "assets/template",
     "raw/02-papers/术后管理 nature.rtf",

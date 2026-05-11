@@ -147,6 +147,9 @@
 - [[摘要-术后克罗恩病管理]] — Nature Reviews Gastroenterology & Hepatology 论文摘要与关键索引，术后 CD 精准预防新范式（PIERW、SAD 框架、生态工程、营养-生物制剂协同）与 NICE 2019 研究议程的 7 年演进评估
 - [[摘要-multi-omics-crohn-disease-een-prediction]] — 多组学机器学习预测儿童克罗恩病对全肠道营养疗效，AUROC 0.81，血清/粪便代谢物+微生物群落整合模型超越临床特征
 - [[摘要-endoscopic-postoperative-recurrence-prevention-network-meta-analysis]] — 网络荟萃分析：20项研究2414患者，对比生物制剂、硫唑嘌呤、5-ASA预防术后内镜复发的有效性，生物制剂显著优于传统治疗
+- [[摘要-elderly-ibd-systematic-review]] — 2026年老年患者IBD系统综述与叙述性综合分析（40项研究），涵盖流行病学、免疫衰老机制、诊断挑战、治疗优化与生物制剂安全性分层，Vedolizumab/Ustekinumab优于Anti-TNF，虚弱评估和多学科管理必需
+- [[摘要-elderly-onset-ibd-treatment-characteristics]] — 以色列Sheba医学中心队列研究（3307名IBD患者，290名老年发病）：老年IBD患者高发结肠限局性疾病、接受更少生物制剂(37% vs 56%)和更多5-ASA(36% vs 17%)、优先使用Vedolizumab(46% vs 10%)而非Anti-TNF，反映保守治疗策略与生物制剂选择重塑
+- [[证据-elderly-ibd-unique-phenotype]] — 支持证据详解："温和炎症+高系统脆弱"独特表型的机制论证，涵盖免疫衰老（T/B/NK细胞衰老）、炎症衰老（SASP、NF-κB激活）、菌群失调（SCFA↓、LPS↑）的三维协同机制与定量证据
 - [[摘要-comparative-efficacy-postoperative-recurrence-network-meta-analysis]] — 网络荟萃分析：42项研究（38项RCT）2260患者，时间依赖分析，6个月adalimumab最优（SUCRA=84.5%），12-18个月infliximab最优（SUCRA=93%），非药物干预（VitD、益生菌、姜黄素）无效
 - [[摘要-perioperative-postoperative-cd-uc]] — 克罗恩病和溃疡性结肠炎患者围手术期和术后管理综合指南（Nature Reviews Gastroenterology & Hepatology, 2019），涵盖围手术期免疫抑制管理、术后复发预防风险分层、IPAA并发症管理（囊炎、克罗恩样病变、功能障碍）
 - [[摘要-ECCO-AI-IBD外科]] — ECCO 第九届科学研讨会综述：IBD 外科人工智能的机遇与局限（22 位国际专家，J Crohn's Colitis 2025）。系统评估 AI 在外科教育（APMs、手术阶段识别）、风险预测（术前/术中/术后）与外科研究（NLP、数字孪生）中的应用，阐述黑盒问题、方法论缺陷、临床转化瓶颈与全球公平性挑战
