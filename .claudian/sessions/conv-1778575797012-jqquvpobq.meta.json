@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778575797012-jqquvpobq",
+  "providerId": "claude",
+  "title": "Setup Git remote repository",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778575797012,
+  "updatedAt": 1778576724618,
+  "lastResponseAt": 1778576724618,
+  "sessionId": "58e9fc1c-1c47-4d1f-a99f-37aed27ef75b",
+  "providerState": {
+    "providerSessionId": "58e9fc1c-1c47-4d1f-a99f-37aed27ef75b"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 399,
+    "cacheReadInputTokens": 40989,
+    "contextWindow": 200000,
+    "contextTokens": 41396,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

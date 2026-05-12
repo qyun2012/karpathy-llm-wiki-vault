@@ -11,13 +11,32 @@
             "id": "18cf3eea55e227c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "raw/notes/git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "git"
+            }
+          },
+          {
+            "id": "cfed202b8a2b3740",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://docs.github.com/zh/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens",
+                "title": "管理个人访问令牌 - GitHub 文档",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "管理个人访问令牌 - GitHub 文档"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,8 +242,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5d77247f1b40f61",
+  "active": "cfed202b8a2b3740",
   "lastOpenFiles": [
+    "raw/notes/git.md",
     "wiki/syntheses/老年IBD系统综述框架-2026.md",
     "wiki/syntheses/综合-IBD组学临床研究全景图.md",
     "wiki/syntheses/临床评估体系-SAD框架详细案例.md",
@@ -250,7 +270,6 @@
     "raw/notes/表观遗传年龄-可视化.md",
     "wiki/log.md",
     "wiki/syntheses/表观遗传年龄与精准医学-DNA甲基化患者分层.md",
-    "Clippings/Ultra-processed foods and risk of Crohn’s disease and ulcerative colitis a prospective cohort study.md",
     "Clippings/09-archive",
     "assets/template",
     "raw/02-papers/术后管理 nature.rtf",
