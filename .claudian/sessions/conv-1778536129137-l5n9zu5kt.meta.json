@@ -4,6 +4,20 @@
   "title": "Ingest inflammatory diet IBD research",
   "titleGenerationStatus": "success",
   "createdAt": 1778536129137,
-  "updatedAt": 1778536140356,
-  "sessionId": null
+  "updatedAt": 1778538282115,
+  "lastResponseAt": 1778536324893,
+  "sessionId": "6ef670b5-c321-49f2-b33f-4971ba508336",
+  "providerState": {
+    "providerSessionId": "6ef670b5-c321-49f2-b33f-4971ba508336"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 839,
+    "cacheReadInputTokens": 140395,
+    "contextWindow": 200000,
+    "contextTokens": 141242,
+    "percentage": 71,
+    "contextWindowIsAuthoritative": true
+  }
 }

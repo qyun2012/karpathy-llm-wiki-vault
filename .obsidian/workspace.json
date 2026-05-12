@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "908c152bbad74480",
+        "id": "bcfc3a1e2d74f899",
         "type": "tabs",
         "children": [
           {
-            "id": "31f4691c6524ceca",
+            "id": "18cf3eea55e227c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Inflammatory Potential of the Diet and Risk of Crohn's Disease and Ulcerative Colitis.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Inflammatory Potential of the Diet and Risk of Crohn's Disease and Ulcerative Colitis"
+              "title": "新标签页"
             }
           }
         ]
@@ -227,11 +223,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d21e527da1dadcd",
+  "active": "b5d77247f1b40f61",
   "lastOpenFiles": [
+    "wiki/syntheses/老年IBD系统综述框架-2026.md",
+    "wiki/syntheses/综合-IBD组学临床研究全景图.md",
+    "wiki/syntheses/临床评估体系-SAD框架详细案例.md",
+    "wiki/syntheses/qCD-S-microbiome-omics-integration.md",
+    "wiki/syntheses/qCD-S-clinical-toolkit.md",
+    "wiki/sources/摘要-quiescent-crohns-sulfur-tryptophan.md",
+    "wiki/sources/摘要-integrated-multiomics-bile-acid-crohns.md",
+    "wiki/entities/Lactobacillus.md",
+    "wiki/entities/Gut_Microbiota.md",
+    "wiki/entities/Clostridium.md",
+    "wiki/entities/Bile_Acids.md",
+    "wiki/entities/Anti-α4β7-Integrin.md",
+    "Clippings/Inflammatory Potential of the Diet and Risk of Crohn's Disease and Ulcerative Colitis.md",
+    "Clippings/09-archive/Inflammatory Potential of the Diet and Risk of Crohn's Disease and Ulcerative Colitis.md",
+    "wiki/entities/EPIC_Study.md",
     "wiki/sources/摘要-isd-dietary-inflammatory-potential-cd-uc.md",
     "Clippings/Comorbidity, not patient age, is associated with impaired safety outcomes in vedolizumab‐ and ustekinumab‐treated patients with inflammatory bowel disease—a prospective multicentre cohort study 1.md",
-    "Clippings/Inflammatory Potential of the Diet and Risk of Crohn's Disease and Ulcerative Colitis.md",
     "wiki/表观遗传年龄与精准医学-可视化指南.md",
     "Clippings/Dietary Inflammatory Potential and Risk of Crohn’s Disease and Ulcerative Colitis.md",
     "raw/09-archive/Dietary Inflammatory Potential and Risk of Crohn’s Disease and Ulcerative Colitis.md",
@@ -241,20 +251,6 @@
     "wiki/log.md",
     "wiki/syntheses/表观遗传年龄与精准医学-DNA甲基化患者分层.md",
     "Clippings/Ultra-processed foods and risk of Crohn’s disease and ulcerative colitis a prospective cohort study.md",
-    "wiki/syntheses/老年IBD患者临床管理指南.md",
-    "wiki/concepts/Chronological_Age.md",
-    "wiki/concepts/DNA_Methylation_Clocks.md",
-    "wiki/concepts/Geriatric_Assessment.md",
-    "raw/notes/未命名.md",
-    "wiki/synthesis/老年IBD系统综述框架-2026.md",
-    "wiki/sources/摘要-functional-age-geriatric-oncology.md",
-    "wiki/entities/Geriatric_Assessment_Toolkit.md",
-    "raw/09-archive/Functional versus chronological age geriatric assessments to guide decision making in older patients with cancer.md",
-    "wiki/concepts/Geriatric_Oncology.md",
-    "wiki/concepts/Physiological_Age.md",
-    "wiki/concepts/Functional_Age.md",
-    "Clippings/Functional versus chronological age geriatric assessments to guide decision making in older patients with cancer.md",
-    "wiki/entities/Charlson_Comorbidity_Index.md",
     "Clippings/09-archive",
     "assets/template",
     "raw/02-papers/术后管理 nature.rtf",

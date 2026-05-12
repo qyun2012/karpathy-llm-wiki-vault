@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778538347582-xl6d8v8sj",
+  "providerId": "claude",
+  "title": "整理知识库同类文件分类",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778538347582,
+  "updatedAt": 1778538731092,
+  "lastResponseAt": 1778538731092,
+  "sessionId": "693df7c5-dc0f-41e2-8b78-c6ebcac1b60e",
+  "providerState": {
+    "providerSessionId": "693df7c5-dc0f-41e2-8b78-c6ebcac1b60e"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 365,
+    "cacheReadInputTokens": 85714,
+    "contextWindow": 200000,
+    "contextTokens": 86087,
+    "percentage": 43,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,3 +1,38 @@
+## [2026-05-11] ingest | EPIC队列ISD膳食炎症评分与CD/UC风险研究
+
+- **新增资源** (2个):
+  
+  1. **源摘要**:
+     - [[摘要-isd-dietary-inflammatory-potential-cd-uc]] — EPIC-IBD队列研究(Meyer et al., 2025, Alimentary Pharmacology & Therapeutics)，394,255人、8个欧洲国家、13.6年随访。核心发现：高ISD (Inflammatory Score of Diet)与克罗恩病风险增加显著(aHR 1.88, P<0.01，第4 vs 第1四分位)，女性中关联更强(aHR 2.14)。关键驱动因素：低膳食纤维(aHR 1.85)、低MUFA(aHR 1.95)、低维生素C(aHR 1.76)、低镁(aHR 1.67)、低洋葱(aHR 1.72)。与溃疡性结肠炎无关联(aHR 0.85, P=0.21)。包含完整ISD方法学、CD vs UC机制差异、敏感性分析、临床防控策略。
+  
+  2. **实体新增**:
+     - [[EPIC_Study]] — 欧洲癌症与营养前瞻性调查(520,000人、10国、23中心、1991-1999年建立)。EPIC-IBD是其针对IBD患者的专项分支(437,972人、8国)。定义了ISD评分框架与验证标准，代表膳食流行病学欧洲版本的独立验证。
+
+- **更新现有页面** (1个):
+  
+  - [[Dietary_Inflammatory_Index]] — 新增0. ISD修订版框架(含EPIC特异性标准化方法、酒精权重调整、评分范围临床意义)；重写CD风险部分(对比EDIP vs ISD、性别分层、驱动因素表)；完整更新UC相关部分；新增参考文献Meyer et al. 2025
+
+- **更新全局索引** (2处):
+  
+  - [[wiki/index.md]] - 实体部分新增 EPIC_Study 条目（介绍队列规模、EPIC-IBD分支、ISD发现）
+  - [[wiki/index.md]] - 源摘要部分新增 摘要-isd-dietary-inflammatory-potential-cd-uc 条目
+
+- **知识库统计**：
+  - 总文件数：360 → **362**（+2）
+  - 核心概念：150 → **150**（0，概念Dietary_Inflammatory_Index已存在）
+  - 关键实体：66 → **67**（+1 EPIC_Study）
+  - 源摘要：73 → **74**（+1）
+
+- **冲突处理**：
+  - 已识别知识冲突：[[Dietary_Inflammatory_Index]] 页面中EDIP (Lo et al., 2020, HR 1.51) 与ISD (Meyer et al., 2025, aHR 1.88)的效应大小差异。已在页面中明确标注：ISD数值稍高，可能因种族人群差异、ISD队列特异性标准化、随访期长度差异所致。
+  - 处理方式：保留两项研究完整结果，在对比表中呈现，标注为"方向一致"。
+
+- **关联连接检验**：
+  - 新增页面均包含完整关联连接，无孤岛页面
+  - [[Dietary_Inflammatory_Index]] 更新后指向：[[EPIC_Study]] (新增) + [[摘要-isd-dietary-inflammatory-potential-cd-uc]] (新增)
+
+---
+
 ## [2026-05-11] ingest | 膳食炎症潜能与IBD风险关联研究
 
 - **新增资源** (2个):
